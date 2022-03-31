@@ -10,7 +10,7 @@
     "step": 2,
     "title": "",
 	"marked": true,
-    "content": "Press ![input](tutorials/img/output.png) on the sidebar"
+    "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/output.png) on the sidebar"
   },
   {
     "selector": "#tutorialButton",
