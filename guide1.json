@@ -3,7 +3,7 @@
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Basic Light tutorial",
-    "content": "(p) In this tutorial you will learn how to turn a light on and off."
+    "content": "In this tutorial you will learn how to turn a light on and off."
   },
   {
     "selector": "#tutorialButton",
