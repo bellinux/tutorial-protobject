@@ -17,21 +17,21 @@
     "step": 3,
     "title": "",
 	"marked": true,
-    "content": "Press ![add output](tutorials/img/addoutput.png) button"
+    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/addoutput.png) button"
   },
   {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
 	"marked": true,
-    "content": "Select **SimpleLamp** to transform your smartphone in a lamp <br/> <br/> <span class=tutorialImg>![simple lamp](tutorials/img/simplelamp-item.png)</span>  "
+    "content": "Select **SimpleLamp** to transform your smartphone in a lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/simplelamp-item.png)</span>  "
   },
   {
     "selector": "#tutorialButton",
     "step": 5,
 	"title": "",
 	"marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](tutorials/img/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the lamp locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the lamp locally.</sup></sub>"
 
   },
   {
@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **set** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](tutorials/basiclight/set.png)</span>"
+    "content": "Move the **set** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/basiclight/set.png)</span>"
 
   },
   {
@@ -53,14 +53,14 @@
     "step": 8,
     "title": "",
 	"marked": true,
-    "content": "Press ![logic](tutorials/img/logic.png) on the sidebar"
+    "content": "Press ![logic](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/logic.png) on the sidebar"
   },
   {
     "selector": "#tutorialButton",
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the ![true](tutorials/img/true-component.png) component as in the figure below. <br/> <br/> <span class=tutorialImgFC>![QrCode](tutorials/basiclight/set-true.png)</span> <br/> <br/> In this way you are programming the system so that the **enabled**  parameter sets to _true_, and the lamp will turn on."
+    "content": "Move the ![true](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/img/true-component.png) component as in the figure below. <br/> <br/> <span class=tutorialImgFC>![QrCode](tutorials/basiclight/set-true.png)</span> <br/> <br/> In this way you are programming the system so that the **enabled**  parameter sets to _true_, and the lamp will turn on."
 
   },
   {
@@ -68,13 +68,13 @@
     "step": 10,
     "title": "",
 	"marked": true,
-    "content": "Press ![play](tutorials/img/play.png) to try the system."
+    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/play.png) to try the system."
   },
   {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
 	"marked": true,
-    "content": "![ok](tutorials/img/welldonesm.png)   Well done!  <br/> <br/> You have learned the basics of Protobject. <br/> <br/> Now try to change _true_ to **false** and restart the system. The lamp will turn off."
+    "content": "![ok](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/welldonesm.png)   Well done!  <br/> <br/> You have learned the basics of Protobject. <br/> <br/> Now try to change _true_ to **false** and restart the system. The lamp will turn off."
   }
 ]
