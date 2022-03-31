@@ -1,0 +1,80 @@
+[
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Basic Light tutorial",
+    "content": "In this tutorial you will learn how to turn a light on and off."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+	"marked": true,
+    "content": "Press ![input](tutorials/img/output.png) on the sidebar"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+	"marked": true,
+    "content": "Press ![add output](tutorials/img/addoutput.png) button"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+	"marked": true,
+    "content": "Select **SimpleLamp** to transform your smartphone in a lamp <br/> <br/> <span class=tutorialImg>![simple lamp](tutorials/img/simplelamp-item.png)</span>  "
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+	"title": "",
+	"marked": true,
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](tutorials/img/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the lamp locally.</sup></sub>"
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "content": "Press **Confirm** when asked."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Move the **set** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](tutorials/basiclight/set.png)</span>"
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+	"marked": true,
+    "content": "Press ![logic](tutorials/img/logic.png) on the sidebar"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 9,
+    "title": "",
+    "marked": true,
+    "content": "Move the ![true](tutorials/img/true-component.png) component as in the figure below. <br/> <br/> <span class=tutorialImgFC>![QrCode](tutorials/basiclight/set-true.png)</span> <br/> <br/> In this way you are programming the system so that the **enabled**  parameter sets to _true_, and the lamp will turn on."
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 10,
+    "title": "",
+	"marked": true,
+    "content": "Press ![play](tutorials/img/play.png) to try the system."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 11,
+    "title": "",
+	"marked": true,
+    "content": "![ok](tutorials/img/welldonesm.png)   Well done!  <br/> <br/> You have learned the basics of Protobject. <br/> <br/> Now try to change _true_ to **false** and restart the system. The lamp will turn off."
+  }
+]
