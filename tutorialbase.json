@@ -60,7 +60,7 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the ![true](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/img/true-component.png) component as in the figure below. <br/> <br/> <span class=tutorialImgFC>![QrCode](tutorials/basiclight/set-true.png)</span> <br/> <br/> In this way you are programming the system so that the **enabled**  parameter sets to _true_, and the lamp will turn on."
+    "content": "Move the ![true](https://github.com/bellinux/tutorial-protobject/raw/main/tutorials/true-component.png) component as in the figure below. <br/> <br/> <span class=tutorialImgFC>![QrCode](tutorials/basiclight/set-true.png)</span> <br/> <br/> In this way you are programming the system so that the **enabled**  parameter sets to _true_, and the lamp will turn on."
 
   },
   {
