@@ -1,0 +1,29 @@
+[
+    {
+      "selector": "#tutorialButton",
+      "step": 1,
+      "title": "Basic timer with personalizable music from Youtube",
+      "content": "In this tutorial you will learn how to create a timer with youtube music."
+    },
+    {
+        "selector": "#tutorialButton",
+        "step": 2,
+        "title": "",
+        "marked": true,
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices.png) on the sidebar"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 3,
+        "title": "",
+        "marked": true,
+        "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/AddDevice.png) button"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 4,
+        "title": "",
+        "marked": true,
+        "content": "Select **SimpleLamp** to transform your smartphone in a lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/AudioPlayer-Item.png)</span>  "
+      }
+]
