@@ -74,7 +74,7 @@
         "step": 11,
         "title": "",
         "marked": true,
-        "content": "Move the **play audio of** component into the workspace <br/> <br/> <span class=tutorialImg>![PlayAudioOf](https://github.com/bellinux/tutorial-protobject/raw/main/images/timer/PlayAudioOf.png)</span>, this component allows us to play the audio from a youtube video"
+        "content": "Move the **play audio of** component into the workspace <br/> <br/> <span class=tutorialImg>![PlayAudioOf](https://github.com/bellinux/tutorial-protobject/raw/main/images/timer/PlayAudioOf.png)</span> this component allows us to play the audio from a youtube video"
     
       }
 ]
