@@ -63,7 +63,7 @@
       },
       {
         "selector": "#tutorialButton",
-        "step": 9,
+        "step": 10,
         "title": "",
         "marked": true,
         "content": "Move the ![pause](https://github.com/bellinux/tutorial-protobject/raw/main/images/pause-component.png) component into the workspace"
