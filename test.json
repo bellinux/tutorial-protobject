@@ -38,14 +38,35 @@
         "selector": "#tutorialButton",
         "step": 6,
         "title": "",
-        "marked": true,
-        "content": "Select **AudioPlayer** to transform your device in a audio player <br/> <br/> <span class=tutorialImg>![audio player](https://github.com/bellinux/tutorial-protobject/raw/main/images/AudioPlayer-Item.png)</span>  "
+        "content": "Press **Confirm** when asked."
       },
       {
         "selector": "#tutorialButton",
         "step": 7,
         "title": "",
         "marked": true,
-        "content": "Click on _Open in this device_ to open the lamp locally  "
+        "content": "Select **AudioPlayer** to transform your device in a audio player <br/> <br/> <span class=tutorialImg>![audio player](https://github.com/bellinux/tutorial-protobject/raw/main/images/AudioPlayer-Item.png)</span>  "
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 8,
+        "title": "",
+        "marked": true,
+        "content": "Click on _Open in this device_ to open the audio player locally  "
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 9,
+        "title": "",
+        "marked": true,
+        "content": "Press ![timing](https://github.com/bellinux/tutorial-protobject/raw/main/images/timing.png) on the sidebar"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 9,
+        "title": "",
+        "marked": true,
+        "content": "Move the ![pause](https://github.com/bellinux/tutorial-protobject/raw/main/images/pause-component.png) component into the workspace"
+    
       }
 ]
