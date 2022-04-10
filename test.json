@@ -24,14 +24,14 @@
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImg style='margin-right:300px'>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
+        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
         "step": 5,
         "title": "",
         "marked": true,
-        "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/>"
+        "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/>"
       },
       {
         "selector": "#tutorialButton",
