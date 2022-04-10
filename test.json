@@ -31,7 +31,7 @@
         "step": 5,
         "title": "",
         "marked": true,
-        "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/>"
+        "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/>"
       },
       {
         "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
         "step": 7,
         "title": "",
         "marked": true,
-        "content": "Press again on 'Devices', 'Add device to system' and select **InteractiveWriteDraw** to create in your device an InteractiveWriteDraw <br/> <br/> <span class=tutorialImg>![InteractiveWriteDraw device](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span>  "
+        "content": "Press again on 'Devices', 'Add device to system' and select **InteractiveWriteDraw** to create in your device an InteractiveWriteDraw <br/> <br/> <span class=tutorialImgFC>![InteractiveWriteDraw device](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
@@ -76,12 +76,28 @@
         "marked": true,
         "content": "Press again ![variables](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar"
       },
-    {
+      {
         "selector": "#tutorialButton",
         "step": 12,
         "title": "",
         "marked": true,
-        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) to the workspace for the two numbers"
+        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) to the workspace for the three variables"
     
-     }
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 12,
+        "title": "",
+        "marked": true,
+        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) to the workspace for the three variables"
+    
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 13,
+        "title": "",
+        "marked": true,
+        "content": " Use the ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/random-integer-component.png) to set the number variables as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/set-numbers.png)</span> <br/> <br/>"
+    
+      }
 ]
