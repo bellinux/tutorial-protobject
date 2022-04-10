@@ -86,14 +86,6 @@
       },
       {
         "selector": "#tutorialButton",
-        "step": 12,
-        "title": "",
-        "marked": true,
-        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) to the workspace for the three variables"
-    
-      },
-      {
-        "selector": "#tutorialButton",
         "step": 13,
         "title": "",
         "marked": true,
