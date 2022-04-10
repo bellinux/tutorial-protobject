@@ -71,10 +71,17 @@
       },
       {
         "selector": "#tutorialButton",
-        "step": 13,
+        "step": 11
         "title": "",
         "marked": true,
-        "content": "Move the **play audio of** component into the workspace <br/> <br/> <span class=tutorialImg>![PlayAudioOf](https://github.com/bellinux/tutorial-protobject/raw/main/images/timer/PlayAudioOf.png)</span> this component allows us to play the audio from a youtube video"
+        "content": "Press again ![variables](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 12
+        "title": "",
+        "marked": true,
+        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png to the workspace for the two numbers"
     
-      }
+     },
 ]
