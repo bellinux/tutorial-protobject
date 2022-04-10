@@ -60,13 +60,13 @@
         "title": "",
         "marked": true,
         "content": "Press ![variables](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar"
-      },
+      },1
       {
         "selector": "#tutorialButton",
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Move the ![pause](https://github.com/bellinux/tutorial-protobject/raw/main/images/pause-component.png) component into the workspace, this component represents the time to be measured with the timer"
+        "content": "Press ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/create-variable.png) and create three variables 'number1','number2','result'; each of the first two variables will store a number, and the variable 'result' will store the result of the sum of the two numbers
     
       },
       {
