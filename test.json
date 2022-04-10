@@ -38,7 +38,7 @@
         "step": 6,
         "title": "",
         "marked": true,
-        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImg>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
+        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImg style='padding:300px'>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
