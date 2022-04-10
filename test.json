@@ -91,5 +91,13 @@
         "marked": true,
         "content": " Use the ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/random-integer-component.png) to set the number variables as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/set-numbers.png)</span> <br/> <br/>"
     
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 14,
+        "title": "",
+        "marked": true,
+        "content": " Use the ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png), the ![set-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) and the ![variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/variable.png)  to set the result variable as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/set-result.png)</span> <br/> <br/>"
+    
       }
 ]
