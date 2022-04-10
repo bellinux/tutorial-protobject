@@ -60,7 +60,7 @@
         "title": "",
         "marked": true,
         "content": "Press ![variables](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar"
-      },1
+      },
       {
         "selector": "#tutorialButton",
         "step": 10,
