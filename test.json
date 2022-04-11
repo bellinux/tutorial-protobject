@@ -115,5 +115,5 @@
     "marked": true,
     "content": "Use the previous component,  [create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/create-text-with.png) and ![set-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png) to write a math trivia, in this case a sum trivia, as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/text.png)</span> <br/> <br/>"
     
-  },
+  }
 ]
