@@ -165,6 +165,27 @@
         "title": "",
         "marked": true,
         "content": "Move the **comparison, number and smartphoneorientation** components into the workspace, put and configurate the components as the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/comparison.png)</span> <br/> this is for a condition to know if the smartphone is face up or face down, remember that each one of this positions represents an alternative"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 24,
+        "title": "",
+        "marked": true,
+        "content": "Conect the before blocks to the if component as the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/component.png)</span> <br/> the program is evaluating that the smartphopne is face up, that is the position of the correct answer"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 25,
+        "title": "",
+        "marked": true,
+        "content": "Move the **write** component into the workspace and put it below the if condition, this means that if the condition of the before step is met, the program will execute this block. Write a felicitation message on the board because in this part the player got the answer right. View the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/correct-answer.png)</span>"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 26,
+        "title": "",
+        "marked": true,
+        "content": "Move the **write** component into the workspace and put it in the else execute section, this means that the if condition of the 'if' was not met, the program will execute this block. Write a sad message on the board because in this part the player got the answer wrong. View the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/bad-answer.png)</span>"
       }
     
 ]
