@@ -121,7 +121,7 @@
     "step": 17,
     "title": "",
     "marked": true,
-    "content": "Move the **write** component into the workspace <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/write-text.png)</span>, you can set the position of the text with coordinates, the size of the text, and the colour of the text"
+    "content": "Now we need to write the alternatives, you can choose which alternative is the correct one, use the variable 'result' and a random number to the alternatives ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/alternatives.png)"
 
   }
 ]
