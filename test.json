@@ -105,7 +105,15 @@
     "step": 15,
     "title": "",
     "marked": true,
-    "content": "Move the **write** component into the workspace <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/write-text.png)</span>"
+    "content": "Move the **write** component into the workspace <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/write-text.png)</span>, you can set the position of the text with coordinates, the size of the text, and the colour of the text
 
+  },
+    {
+    "selector": "#tutorialButton",
+    "step": 16,
+    "title": "",
+    "marked": true,
+    "content": "Use the previous component,  [create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/create-text-with.png) and ![set-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png) to write a math trivia, in this case a sum trivia, as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/text.png)</span> <br/> <br/>"
+    
   },
 ]
