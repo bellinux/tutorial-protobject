@@ -157,35 +157,35 @@
     "step": 22,
     "title": "",
     "marked": true,
-    "content": "Move the **if** component into the workspace and add an 'else' as the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/if-else.png)</span> this is for evaluate the orientation of the smartphone with the accelerometer sensor"
+    "content": "Move the **if** component to the workspace and add an 'else' as in the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/if-else.png)</span> this is to know the orientation of the smartphone with the accelerometer"
     },
     {
         "selector": "#tutorialButton",
         "step": 23,
         "title": "",
         "marked": true,
-        "content": "Move the **comparison, number and smartphoneorientation** components into the workspace, put and configurate the components as the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/comparison.png)</span> <br/> this is for a condition to know if the smartphone is face up or face down, remember that each one of this positions represents an alternative"
+        "content": "Move the **comparison, number and smartphone orientation** components to the workspace, place and configure the components as the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/comparison.png)</span> <br/> this is to know  if the smartphone is face up or face down, remember that each one of this orientations represents an alternative"
       },
     {
         "selector": "#tutorialButton",
         "step": 24,
         "title": "",
         "marked": true,
-        "content": "Conect the before blocks to the if component as the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/component.png)</span> <br/> the program is evaluating that the smartphopne is face up, that is the position of the correct answer"
+        "content": "Connect the above blocks to the if component as in the following picture <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/component.png)</span> <br/> the program is evaluating that the smartphopne is face up, remember that this is the position of the correct answer"
       },
     {
         "selector": "#tutorialButton",
         "step": 25,
         "title": "",
         "marked": true,
-        "content": "Move the **write** component into the workspace and put it below the if condition, this means that if the condition of the before step is met, the program will execute this block. Write a felicitation message on the board because in this part the player got the answer right. View the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/correct-answer.png)</span>"
+        "content": "Move the **write** component into the workspace and put it under the if condition, this means that if the condition of the previous step is met, the program will execute this block. Write a congratulation message on the board because in this part the player got the answer right. See the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/correct-answer.png)</span>"
       },
     {
         "selector": "#tutorialButton",
         "step": 26,
         "title": "",
         "marked": true,
-        "content": "Move the **write** component into the workspace and put it in the else execute section, this means that the if condition of the 'if' was not met, the program will execute this block. Write a sad message on the board because in this part the player got the answer wrong. View the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/bad-answer.png)</span>"
+        "content": "Move the **write** component to the workspace and put it in the 'else' execution section, this means that the condition of the previous if was not met, so the program will execute this block. Write a sad message on the board because in this part the player got the answer wrong. See the image below. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/bad-answer.png)</span>"
       }
     
 ]
