@@ -3,7 +3,7 @@
       "selector": "#tutorialButton",
       "step": 1,
       "title": "Basic math trivia game with smartphone",
-      "content": "In this tutorial you will learn how to create a basic math trivia game with a smartphone."
+      "content": "In this tutorial you will learn how to create a basic math trivia game with a smartphone and a laptop."
     },
     {
         "selector": "#tutorialButton",
@@ -66,7 +66,7 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/create-variable.png) and create three variables 'number1', 'number2', 'result'; each of the first two variables will store a number, and the variable 'result' will store the result of the sum of the two numbers"
+        "content": "Press ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/create-variable.png) and create three variables, 'number1', 'number2', 'result'; each of the first two variables will store a number, and the variable 'result' will store the result of the sum of the two numbers"
     
       },
       {
@@ -97,7 +97,7 @@
         "step": 14,
         "title": "",
         "marked": true,
-        "content": " Use the ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png), the ![set-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) and the ![variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/variable.png) to set the result variable as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/set-result.png)</span> <br/> <br/>"
+        "content": " Use the ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png)<br/>, the ![set-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) and the ![variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/variable.png) to set the result variable as in the figure below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/set-result.png)</span> <br/> <br/>"
     
       },
     {
@@ -105,7 +105,7 @@
     "step": 15,
     "title": "",
     "marked": true,
-    "content": "Move the **write** component into the workspace <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/write-text.png)</span>, you can set the position of the text with coordinates, the size of the text, and the colour of the text"
+    "content": "Move the **write** component into the workspace <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/write-text.png)</span> you can set the position of the text with coordinates, the size of the text, and the colour of the text"
 
   },
     {
@@ -123,5 +123,26 @@
     "marked": true,
     "content": "Now we need to write the alternatives, you can choose which alternative is the correct one, use the variable 'result' and a random number to the alternatives <span class=tutorialImgFC>![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/alternatives.png)</span>"
 
-  }
+  },
+    {
+        "selector": "#tutorialButton",
+        "step": 18,
+        "title": "",
+        "marked": true,
+        "content": "Press ![timing](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 19,
+        "title": "",
+        "marked": true,
+        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) this is for wait the answer of the player"
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 20
+        "title": "",
+        "marked": true,
+        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/clear.png) for clean the board to show to the user if the answer selected was the correct"
+      }
 ]
