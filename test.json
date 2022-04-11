@@ -158,6 +158,13 @@
     "title": "",
     "marked": true,
     "content": "Move the **if** component into the workspace and add an 'else' as the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/if-else.png)</span> this is for evaluate the orientation of the smartphone with the accelerometer sensor"
-    }
+    },
+    {
+        "selector": "#tutorialButton",
+        "step": 23,
+        "title": "",
+        "marked": true,
+        "content": "Move the **comparison, number and smartphoneorientation** components into the workspace, put and configurate the components as the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/comparison.png)</span> <br/> this is for a condition to know if the smartphone is face up or face down, remember that each one of this positions represents an alternative"
+      }
     
 ]
