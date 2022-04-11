@@ -24,7 +24,7 @@
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
+        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer of your smartphone <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
         "step": 7,
         "title": "",
         "marked": true,
-        "content": "Press again on 'Devices', 'Add device to system' and select **InteractiveWriteDraw** to create in your device an InteractiveWriteDraw <br/> <br/> <span class=tutorialImgFC>![InteractiveWriteDraw device](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span>  "
+        "content": "Press again on 'Devices', 'Add device to system' and select **InteractiveWriteDraw** to create in your device an interactive whiteboard <br/> <br/> <span class=tutorialImgFC>![InteractiveWriteDraw device](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
@@ -81,7 +81,7 @@
         "step": 12,
         "title": "",
         "marked": true,
-        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) to the workspace for the three variables"
+        "content": " Move ![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) of each variable to the workspace"
     
       },
       {
@@ -121,7 +121,7 @@
     "step": 17,
     "title": "",
     "marked": true,
-    "content": "Now we need to write the alternatives, you can choose which alternative is the correct one, use the variable 'result' and a random number to the alternatives <span class=tutorialImgFC>![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/alternatives.png)</span>"
+    "content": "Now we need to write the alternatives, you can choose which alternative is the correct one, use the variable 'result' and a random number for the alternatives <span class=tutorialImgFC>![create-variable](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/alternatives.png)</span>"
 
   },
     {
@@ -136,14 +136,14 @@
         "step": 19,
         "title": "",
         "marked": true,
-        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) this is for wait the answer of the player"
+        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) this is to wait for the player's answer"
       },
     {
         "selector": "#tutorialButton",
         "step": 20,
         "title": "",
         "marked": true,
-        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/clear.png) for clean the board to show to the user if the answer selected was the correct"
+        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/clear.png) to clear the whiteboard and show the user whether the selected answer was the correct one"
       },
     {
         "selector": "#tutorialButton",
