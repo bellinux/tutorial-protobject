@@ -140,7 +140,7 @@
       },
     {
         "selector": "#tutorialButton",
-        "step": 20
+        "step": 20,
         "title": "",
         "marked": true,
         "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/clear.png) for clean the board to show to the user if the answer selected was the correct"
