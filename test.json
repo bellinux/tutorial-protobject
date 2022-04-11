@@ -24,6 +24,12 @@
         "step": 4,
         "title": "",
         "marked": true,
+ 
+￼ 
+bellinux
+/
+tutorial-protobject
+
         "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer sensor of your smartphone <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
       },
       {
@@ -144,5 +150,20 @@
         "title": "",
         "marked": true,
         "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/clear.png) for clean the board to show to the user if the answer selected was the correct"
-      }
+      },
+    {
+        "selector": "#tutorialButton",
+        "step": 21,
+        "title": "",
+        "marked": true,
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar"
+      },
+    {
+    "selector": "#tutorialButton",
+    "step": 22,
+    "title": "",
+    "marked": true,
+    "content": "Move the **if** component into the workspace and add an 'else' as the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/basic-math-game/if-else.png)</span> this is for evaluate the orientation of the smartphone with the accelerometer sensor"
+    }
+    
 ]
