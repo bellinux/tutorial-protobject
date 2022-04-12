@@ -24,7 +24,7 @@
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer of your smartphone <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
+        "content": "Select **SmartphoneOrientation** to access to the data of the accelerometer of your smartphone, this will be used to choose an alternative trivia choice <br/> <br/> <span class=tutorialImgFC>![SmartphoneOrientation](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span>  "
       },
       {
         "selector": "#tutorialButton",
