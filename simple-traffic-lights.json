@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **set-colour** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colour.png)</span> this component will allow us to set a color in our traffic light"
+    "content": "Move the **set-colour** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colour.png)</span> this component will allow us to set a color (using the rgb system colour) in our traffic light"
   },
   {
     "selector": "#tutorialButton",
