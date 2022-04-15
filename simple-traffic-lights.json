@@ -87,6 +87,6 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "As before, we need to simulate that certain seconds pass and the traffic lights change color <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait2.png)</span>"
+    "content": "Once again, we need to simulate that certain seconds pass and the traffic lights change color <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait2.png)</span>"
   }
 ]
