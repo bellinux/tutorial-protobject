@@ -1,0 +1,15 @@
+[
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Basic Light tutorial",
+    "content": "In this tutorial you will learn how to create simple traffic lights"
+  },
+   {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+	  "marked": true,
+    "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar"
+  }
+]https://github.com/bellinux/tutorial-protobject
