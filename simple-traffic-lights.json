@@ -3,7 +3,7 @@
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Simple",
-    "content": "In this tutorial you will learn how to create simple traffic lights"
+    "content": "In this tutorial you will learn how to create two simple traffic lights going in opposite directions"
   },
   {
     "selector": "#tutorialButton",
@@ -53,5 +53,12 @@
     "title": "",
     "marked": true,
     "content": "Repeat the same process to have a second rgb lamp"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 9,
+    "title": "",
+    "marked": true,
+    "content": "Now let's simulate the traffic lights in opposite direction. Set green color in the first traffic light and red color in the second traffic light, as in the image below <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colours.png)</span> <br/> <br/>"
   }
 ]
