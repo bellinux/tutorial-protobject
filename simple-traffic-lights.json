@@ -73,7 +73,7 @@
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/wait-component.png) button, move it to the workspace and set the amount of time the program should wait to change the color of the lights"
+    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/wait-component.png) button, move it to the workspace and set the amount of time the program should wait to change the color of the lights <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait.png)</span>"
   }
   
 ]
