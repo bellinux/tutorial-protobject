@@ -2,14 +2,49 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic Light tutorial",
+    "title": "Simple",
     "content": "In this tutorial you will learn how to create simple traffic lights"
   },
-   {
+  {
     "selector": "#tutorialButton",
     "step": 2,
     "title": "",
-	  "marked": true,
+    "marked": true,
     "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar"
-  }
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/AddDevice.png) button"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+    "marked": true,
+    "content": "Select **RGBLamp** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span>  "
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "marked": true,
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the rgb lamp locally.</sup></sub>"
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "content": "Press **Confirm** when asked."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Move the **set** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colour.png)</span>"
+  },
 ]
