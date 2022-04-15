@@ -74,6 +74,13 @@
     "title": "",
     "marked": true,
     "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/wait-component.png) button, move it to the workspace and set the amount of time the program should wait to change the color of the lights <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait.png)</span>"
-  }
+  },
+   {
+    "selector": "#tutorialButton",
+    "step": 12,
+    "title": "",
+    "marked": true,
+    "content": "As before, you have to set the traffic lights to the corresponding color, move to the workspace the component to set the color of each of the lamps, and set yellow color in the first traffic light and green color in the second traffic light. <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colours2.png)</span> <br/> <br/>"
+  },
   
 ]
