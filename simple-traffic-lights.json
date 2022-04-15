@@ -24,7 +24,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **RGBLamp** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span> this will be used as a traffic light  "
+    "content": "Select **RGBLamp** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span> <br/> this will be used as a traffic light  "
   },
   {
     "selector": "#tutorialButton",
@@ -52,7 +52,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Press the button ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg) on your smartphone to have a second rgb lamp"
+    "content": "Press the button <span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span> on your smartphone to have a second rgb lamp"
   },
   {
     "selector": "#tutorialButton",
