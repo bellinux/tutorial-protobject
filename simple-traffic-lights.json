@@ -2,7 +2,7 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Simple",
+    "title": "Simple traffic lights going in opposite directions",
     "content": "In this tutorial you will learn how to create two simple traffic lights going in opposite directions"
   },
   {
