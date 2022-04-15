@@ -24,7 +24,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **RGBLamp** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span>  "
+    "content": "Select **RGBLamp** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span> this will be used as a traffic light  "
   },
   {
     "selector": "#tutorialButton",
@@ -45,6 +45,13 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **set** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colour.png)</span>"
+    "content": "Move the **set-colour** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colour.png)</span> this component will allow us to set a color in our traffic light"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+    "marked": true,
+    "content": "Repeat the same process to have a second rgb lamp."
   }
 ]
