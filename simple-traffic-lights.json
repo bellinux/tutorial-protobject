@@ -88,5 +88,13 @@
     "title": "",
     "marked": true,
     "content": "Once again, we need to simulate that certain seconds pass and the traffic lights change color <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait2.png)</span>"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 14,
+    "title": "",
+    "marked": true,
+    "content": "One more time, repeat the process to set the traffic light colors to the corresponding colors and add the wait component, in the next step we will make the traffic light cycle repeat itself <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colours3.png)</span> <br/> <br/>"
   }
+  
 ]
