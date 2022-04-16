@@ -24,14 +24,14 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **EnviromentalMotion** to detect motion with your device's camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/EnviromentalMotion-Item.png)</span> <br/> this will be used to catch potential thieves"
+    "content": "Select **EnviromentalMotion** to detect motion with your device's camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/EnviromentalMotion-Item.png)</span> <br/> this will be used to measure the intensity of movement of potential thieves."
   },
   {
     "selector": "#tutorialButton",
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the rgb lamp locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
 
   },
   {
