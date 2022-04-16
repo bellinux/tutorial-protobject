@@ -105,7 +105,7 @@
   },
   {
     "selector": "#tutorialButton",
-    "step": 10,
+    "step": 16,
     "title": "",
 	"marked": true,
     "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
