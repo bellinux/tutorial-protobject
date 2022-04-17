@@ -40,23 +40,30 @@
     "title": "",
     "content": "Press **Confirm** when asked."
   },
+  {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Do the same for the **AudioPlayer** device to play audio from youtube on your smartphone <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
+  },
    {
         "selector": "#tutorialButton",
-        "step": 7,
+        "step": 8,
         "title": "",
         "marked": true,
         "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar"
       },
    {
     "selector": "#tutorialButton",
-    "step": 8,
+    "step": 9,
     "title": "",
     "marked": true,
     "content": "Move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png), the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png), the **number** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) and the **intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png) components to the workspace"
    },
   {
     "selector": "#tutorialButton",
-    "step": 9,
+    "step": 10,
     "title": "",
     "marked": true,
     "content": "Put the components of the previous step as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/enviromental-motion.png)</span> <br/> the idea is that if the captured motion intensity is higher than the number you put, something happens."
