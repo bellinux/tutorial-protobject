@@ -52,14 +52,14 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) and **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) components to the workspace"
+    "content": "Move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png), the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png), the **number** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) and the **intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png) components to the workspace"
    },
   {
     "selector": "#tutorialButton",
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the **intensity** component of the enviromentalmotion device to the workspace and put it as in the image"
+    "content": "Put the components of the previous step as in the image, the idea is that if the captured motion intensity is higher than the number you put, something happens."
 
   }
  ]
