@@ -59,7 +59,7 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Put the components of the previous step as in the image, the idea is that if the captured motion intensity is higher than the number you put, something happens."
+    "content": "Put the components of the previous step as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/enviromental-motion.png)</span> <br/> the idea is that if the captured motion intensity is higher than the number you put, something happens."
 
   }
  ]
