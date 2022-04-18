@@ -1,0 +1,108 @@
+[
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Simple burglar alarm",
+    "content": "In this tutorial you will learn how to create a simple facial detection"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+    "marked": true,
+    "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/AddDevice.png) button"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+    "marked": true,
+    "content": "Select **SmartCamera** to detect images after custom training using a camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/EnviromentalMotion-Item.png)</span> <br/> this will be used to measure the intensity of movement of potential thieves."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "marked": true,
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "content": "Press **Confirm** when asked."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Do the same for the **AudioPlayer** device to play audio from youtube on your smartphone <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
+  },
+   {
+        "selector": "#tutorialButton",
+        "step": 8,
+        "title": "",
+        "marked": true,
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar"
+      },
+   {
+    "selector": "#tutorialButton",
+    "step": 9,
+    "title": "",
+    "marked": true,
+    "content": "Move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png), and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) components to the workspace"
+   },
+   {
+        "selector": "#tutorialButton",
+        "step": 10,
+        "title": "",
+        "marked": true,
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar"
+      },
+   {
+    "selector": "#tutorialButton",
+    "step": 11,
+    "title": "",
+    "marked": true,
+    "content": "Move the **number** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) to the workspace"
+   },
+   {
+    "selector": "#tutorialButton",
+    "step": 12,
+    "title": "",
+    "marked": true,
+    "content": "Move the **intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png), and the **player** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/play-audio.png) components to the workspace"
+   },
+  {
+    "selector": "#tutorialButton",
+    "step": 13,
+    "title": "",
+    "marked": true,
+    "content": "Put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/alarm.png)</span> <br/> the idea is that the alarm will sound if the intensity of the captured motion is greater than the number you set. "
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 14,
+    "title": "",
+    "marked": true,
+    "content": "To repeatedly verify the intensity of motion captured with the device, we will use the main loop component, which allows us to re-run the code after it has finished executing. Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar. Then, move to the workspace the ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/main-loop-component.png) component and place it as shown in the picture <br/> <br/> <span class=tutorialImgFC>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/main-loop.png)</span> <br/> <br/>"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 15,
+    "title": "",
+	"marked": true,
+    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
+  }
+  
+ ]
