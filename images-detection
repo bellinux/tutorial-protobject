@@ -24,7 +24,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **SmartCamera** to detect images after custom training using a camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/EnviromentalMotion-Item.png)</span> <br/> this will be used to measure the intensity of movement of potential thieves."
+    "content": "Select **SmartCamera** to detect images after custom training using a camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartCamera-Item.png)</span> <br/> this will be used to measure the intensity of movement of potential thieves."
   },
   {
     "selector": "#tutorialButton",
@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same for the **AudioPlayer** device to play audio from youtube on your smartphone <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
+    "content": "Do the same for the **Text2Speech** device to say something using speakers <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
   },
    {
         "selector": "#tutorialButton",
@@ -66,14 +66,14 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar"
       },
    {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **number** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) to the workspace"
+    "content": "Move the **text** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png) to the workspace"
    },
    {
     "selector": "#tutorialButton",
