@@ -3,7 +3,7 @@
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Simple burglar alarm",
-    "content": "In this tutorial you will learn how to create a simple facial detection"
+    "content": "In this tutorial you will learn how to play voice messages dependent on image recognition."
   },
   {
     "selector": "#tutorialButton",
