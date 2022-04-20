@@ -41,8 +41,36 @@
     "content": "Press **Confirm** when asked."
   },
   {
+        "selector": "#tutorialButton",
+        "step": 7,
+        "title": "",
+        "marked": true,
+        "content": "with the simple mode option we can recognize one element, with the advanced mode option we can recognize several elements ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/smart-camera.png)"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 8,
+        "title": "",
+        "marked": true,
+        "content": "Gives a name to the image to be recognized ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 9,
+        "title": "",
+        "marked": true,
+        "content": "Click on record this example to use the current image for training, you can use more images ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png) click on learn another image to recognize something else"
+      },
+      {
+        "selector": "#tutorialButton",
+        "step": 9,
+        "title": "",
+        "marked": true,
+        "content": "After finishing the training click on end training ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/training.png)"
+      },
+  {
     "selector": "#tutorialButton",
-    "step": 7,
+    "step": 10,
     "title": "",
     "marked": true,
     "content": "Do the same for the **Text2Speech** device to say something using speakers <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
