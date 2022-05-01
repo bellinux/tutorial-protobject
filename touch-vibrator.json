@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same with the **TouchButton** select touchbutton to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> this will be used to make the smartphone vibrate when the button is touched."
+    "content": "Do the same with the **TouchButton** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> this will be used to make the smartphone vibrate when the button is touched."
   },
  
    {
