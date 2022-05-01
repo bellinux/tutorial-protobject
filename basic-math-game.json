@@ -136,7 +136,7 @@
         "step": 19,
         "title": "",
         "marked": true,
-        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) this is to wait for the player's answer"
+        "content": "Press ![delay](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/wait-component.png) this is to wait for the player's answer"
       },
     {
         "selector": "#tutorialButton",
