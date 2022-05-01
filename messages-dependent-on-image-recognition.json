@@ -2,7 +2,7 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Simple burglar alarm",
+    "title": "Messages dependent on image recognition",
     "content": "In this tutorial you will learn how to play voice messages dependent on image recognition."
   },
   {
