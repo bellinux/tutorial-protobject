@@ -67,7 +67,7 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/wait-component.png) component to the workspace"
       },
    {
     "selector": "#tutorialButton",
