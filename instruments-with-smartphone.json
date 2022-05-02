@@ -24,7 +24,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **LightIntensity** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/LightIntensity-Item.png)</span> <br/> this will be used as a traffic light  "
+    "content": "Select **SmartphoneOrientation** to transform your smartphone in a rgb lamp <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span> <br/> this will be used as a traffic light  "
   },
   {
     "selector": "#tutorialButton",
@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same with the **Text2Speech** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/> and the **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/>  this will be used to make the smartphone vibrate when the button is touched."
+    "content": "Do the same with the **DrumKeyboard** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DrumKeyboard-Item.png)</span> <br/>  this will be used to make the smartphone vibrate when the button is touched."
   },
  
   {
@@ -60,7 +60,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component to the workspace, four times."
       },
 	{
         "selector": "#tutorialButton",
