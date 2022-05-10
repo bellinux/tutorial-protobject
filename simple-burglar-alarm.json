@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same for the **AudioPlayer** device to play audio from youtube on your smartphone <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
+    "content": "Do the same for the **AudioPlayer** device to play audio from youtube on your smartphone <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/> this will be used to play an alarm when a certain intensity of motion is detected by the camera."
   },
    {
         "selector": "#tutorialButton",
