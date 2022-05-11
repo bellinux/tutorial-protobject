@@ -80,7 +80,7 @@
     "step": 12,
     "title": "",
     "marked": true,
-    "content": "Move the **intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png), and the **player** <br/><span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/play-audio.png)</span> components to the workspace"
+    "content": "Move the **intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png), and the **player** <br/><span class=tutorialImgNoBorder>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/play-audio.png)</span> components to the workspace"
    },
   {
     "selector": "#tutorialButton",
