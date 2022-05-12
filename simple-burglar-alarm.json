@@ -88,7 +88,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "To repeatedly verify the intensity of motion captured with the device, we will use the main loop component, which allows us to re-run the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png) on the sidebar. Then, move to the workspace the ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/main-loop-component.png) component and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/main-loop.png)</span> <br/> <br/>"
+    "content": "To repeatedly verify the intensity of motion captured with the device, we will use the main loop component, which allows us to re-run the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar. Then, move to the workspace the ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png) component and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
