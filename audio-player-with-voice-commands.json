@@ -61,7 +61,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar, move the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png), and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png) component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar, <br/>move the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png), <br/>and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png) <br/>component to the workspace"
       },
     {
     "selector": "#tutorialButton",
