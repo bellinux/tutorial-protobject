@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **AudioPlayer** to turn your smartphone into an audio player <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/>"
+    "content": "Select **AudioPlayer** to turn your smartphone into an audio player <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/AudioPlayer-Item.png)</span> <br/>"
   },
  
   {
@@ -68,7 +68,7 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the **play audio** <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span>, the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png), and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
+    "content": "Move the **play audio** <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span>, the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png), and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
    },
   {
     "selector": "#tutorialButton",
