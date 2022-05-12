@@ -68,7 +68,7 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the **play audio** <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span> the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png) <br/> and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
+    "content": "Move the **play audio** <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span> the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png) <br/> and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
    },
   {
     "selector": "#tutorialButton",
