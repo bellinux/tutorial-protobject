@@ -54,7 +54,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png), and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar,<br/> move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png)<br/> and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) components to the workspace"
       },
 	 {
         "selector": "#tutorialButton",
@@ -68,7 +68,7 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the **play audio** <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span>, the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png), and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
+    "content": "Move the **play audio** <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span> the **stop** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png) <br/> and the **text** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png) components to the workspace, repeat the process for the text component and set it to turn off vibration."
    },
   {
     "selector": "#tutorialButton",
