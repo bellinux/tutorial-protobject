@@ -53,7 +53,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png)<br/> and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)<br/> components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png)<br/> and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)<br/><br/> components to the workspace"
       },
 	{
         "selector": "#tutorialButton",
@@ -67,14 +67,14 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay**<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/> <br/>component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay**<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/>component to the workspace"
       },
    {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **Orientation** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)<br/><br/> four times to the workspace, and the <br/><br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/> components to the workspace."
+    "content": "Move the **Orientation** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)<br/><br/> four times to the workspace, and the <br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/> components to the workspace."
    },
   {
     "selector": "#tutorialButton",
