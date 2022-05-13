@@ -74,7 +74,7 @@
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/intensity.png),<br/> the **Text2Speech**<span class=tutorialImg> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/text2speech.png)</span><br/><br/>and the **record-data**<span class=tutorialImg> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/record-data.png)</span> components to the workspace."
+    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/intensity.png),<br/> the **Text2Speech**<span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/text2speech.png)</span><br/><br/>and the **record-data**<span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/record-data.png)</span> components to the workspace."
    },
   {
     "selector": "#tutorialButton",
@@ -89,7 +89,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "To constantly monitor the amount of light that is reaching the plant, we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/> Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/main-loop.png)</span> <br/> <br/>"
+    "content": "To constantly monitor the amount of light that is reaching the plant, we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/> <br/>Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
