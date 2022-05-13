@@ -74,14 +74,14 @@
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **Orientation** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)<br/><br/> four times to the workspace, and the <br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/> components to the workspace."
+    "content": "Move the **Orientation** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)<br/><br/> four times to the workspace, and the <br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/> <br/>components to the workspace."
    },
   {
     "selector": "#tutorialButton",
     "step": 12,
     "title": "",
     "marked": true,
-    "content": "Put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/blocks.png)</span> <br/> <br/>The idea is that depending on the orientation of the smartphone a particular sound will be played."
+    "content": "Put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/blocks.png)</span> <br/> <br/>The idea is that depending on the orientation of the smartphone a particular sound will be played."
 
   },
    {
@@ -89,7 +89,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "To constantly check the orientation of the smartphone we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar. <br/><br/>Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/main-loop.png)</span> <br/> <br/>"
+    "content": "To constantly check the orientation of the smartphone we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar. <br/><br/>Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
