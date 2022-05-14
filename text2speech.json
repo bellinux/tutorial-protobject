@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic Light tutorial",
-    "content": "In this tutorial you will learn how to turn a light on and off."
+    "title": "Basic Text to Speech tutorial",
+    "content": "in this tutorial you will learn how to transform text to speech on your smartphone"
   },
   {
     "selector": "#tutorialButton",
