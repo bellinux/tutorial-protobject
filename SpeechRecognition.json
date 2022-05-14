@@ -49,7 +49,7 @@
   },
   {
     "selector": "#tutorialButton",
-    "step": 7,
+    "step": 8,
     "title": "",
     "marked": true,
     "content": "Move the **SpeechRecognition** component into the workspace <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text-component.png)</span>"
@@ -57,14 +57,14 @@
   },
   {
     "selector": "#tutorialButton",
-    "step": 8,
+    "step": 9,
     "title": "",
 	"marked": true,
     "content": "Type something to say in the text field and select a language from the list"
   },
    {
     "selector": "#tutorialButton",
-    "step": 7,
+    "step": 10,
     "title": "",
     "marked": true,
     "content": "Look in the last detection box to see what your smartphone last detected. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/detection.png)</span>"
@@ -72,7 +72,7 @@
   },
   {
     "selector": "#tutorialButton",
-    "step": 9,
+    "step": 11,
     "title": "",
 	"marked": true,
     "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
