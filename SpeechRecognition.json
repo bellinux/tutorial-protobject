@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Select the language in which you want the smartphone to recognize what you are saying <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/language-component.png)</span>"
+    "content": "Select the language in which you want the smartphone to recognize what you are saying <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/language.png)</span>"
 
   },
   {
@@ -52,7 +52,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Move the **SpeechRecognition** component into the workspace <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text-component.png)</span>"
+    "content": "Move the **SpeechRecognition** component into the workspace <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span>"
 
   },
   {
