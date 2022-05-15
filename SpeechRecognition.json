@@ -3,7 +3,7 @@
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Basic SpeechRecognition tutorial",
-    "content": "in this tutorial you will learn how to use your smartphone to recognize what you are saying."
+    "content": "In this tutorial you will learn how to use your smartphone to recognize what you are saying."
   },
   {
     "selector": "#tutorialButton",
