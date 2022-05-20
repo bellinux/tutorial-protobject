@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **Text2Speech** to make your smartphone vibrate <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SpeechRecognition-Item.png)</span> <br/>"
+    "content": "Select **SpeechRecognition** to use your smartphone as voice recognition device<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SpeechRecognition-Item.png)</span> <br/>"
   },
  
   {
