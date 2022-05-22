@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -52,7 +52,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Move the **SpeechRecognition** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span>"
+    "content": "Move the **SpeechRecognition** component into the workspace <br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span>"
 
   },
  
@@ -62,7 +62,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/log.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> component and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/log.png)</span><br/><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
       },
  
   {
