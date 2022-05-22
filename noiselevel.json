@@ -53,7 +53,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print-component.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noiselevel/log.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noiselevel/log.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
       },
   {
         "selector": "#tutorialButton",
