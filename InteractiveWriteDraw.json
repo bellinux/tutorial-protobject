@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic SpeechRecognition tutorial",
-    "content": "In this tutorial you will learn how to use your smartphone to recognize what you are saying."
+    "title": "Hello World with InteractiveWriteDraw tutorial",
+    "content": "In this tutorial you will learn how to write text on an interactive whiteboard."
   },
   {
     "selector": "#tutorialButton",
@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **InteractiveWriteDraw** to make your smartphone vibrate <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span> <br/>"
+    "content": "Select **InteractiveWriteDraw** to create an interactive whiteboard on your device <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/InteractiveWriteDraw-Item.png)</span> <br/>"
   },
  
   {
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open on this device_ to open it locally</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **text** component into the workspace <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/text.png)</span> you aslo can draw a line<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/line.png)</span>and a point  <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/point.png)</span>"
+    "content": "Move the **text** component into the workspace <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/text.png)</span><br/> you aslo can draw a line<br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/line.png)</span><br/>and a point  <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/point.png)</span>"
 
   },
   {
@@ -52,7 +52,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Write hello world in the text component ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/hello%20world.png)"
+        "content": "Write hello world in the text component <span class=tutorialImgWide>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/hello%20world.png)</span>"
       },
  
  
@@ -61,6 +61,6 @@
     "step": 9,
     "title": "",
 	"marked": true,
-    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system. ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/write.png)"
+    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system.<span class=tutorialImg> ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/interactivewritedraw/write.png)</span>"
   }
 ]
