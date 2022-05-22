@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **set-colour** component into the workspace<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/rgblamp/colour.png)</span>"
+    "content": "Move the **set-colour** component into the workspace<br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/rgblamp/colour.png)</span>"
 
   },
  {
@@ -53,7 +53,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Select the color of the lamp illumination <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/rgblamp/image.png)</span>"
+    "content": "Select the color of the lamp illumination <br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/rgblamp/image.png)</span>"
 
   },
   
