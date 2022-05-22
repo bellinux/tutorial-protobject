@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic SpeechRecognition tutorial",
-    "content": "In this tutorial you will learn how to generate a touch button on your device."
+    "title": "Simple Button tutorial",
+    "content": "In this tutorial you will learn how to generate a switch on your device."
   },
   {
     "selector": "#tutorialButton",
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **enabled** <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span>components into the workspace"
+    "content": "Move the **enabled** <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span><br/>components into the workspace"
 
   },
  
@@ -54,7 +54,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/log.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> component and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/log.png)</span><br/><br/>this is to show on the console whether the switch is on or off."
       },
  
 	{
