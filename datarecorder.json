@@ -61,7 +61,7 @@
     "step": 9,
     "title": "",
 	"marked": true,
-    "content": "Press Save<span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg)</span> <br/> to save the data in csv format"
+    "content": "Press Save <br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg)</span> <br/> to save the data in csv format"
   },
   {
     "selector": "#tutorialButton",
