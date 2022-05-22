@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic SpeechRecognition tutorial",
-    "content": "In this tutorial you will learn how to use your smartphone to recognize what you are saying."
+    "title": "DrumKeyboard tutorial",
+    "content": "In this tutorial you will learn how to play the keyboard and the drums on your smartphone."
   },
   {
     "selector": "#tutorialButton",
@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **DrumKeyboard** to make your smartphone vibrate <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DrumKeyboard-Item.png)</span> <br/>"
+    "content": "Select **DrumKeyboard** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DrumKeyboard-Item.png)</span> <br/>"
   },
  
   {
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "You have different options<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/image.png)</span>"
+    "content": "You have different options<br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/image.png)</span>"
 
   },
   {
@@ -52,7 +52,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "You can play different notes on the keyboard<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/keyboard.png)</span> and diferent options with drum <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drum.png)</span>"
+    "content": "You can play different notes on the keyboard<br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/keyboard.png)</span><br/> and diferent options with drum <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drum.png)</span>"
 
   },
    {
@@ -60,21 +60,14 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the  <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drumkeyboard.png)</span>"
+    "content": "Move the  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drumkeyboard.png)</span><br/> component into the workspace to play a sequence of notes with both instruments with a pause in between the sequence"
 
   },
-  {
-        "selector": "#tutorialButton",
-        "step": 10,
-        "title": "",
-        "marked": true,
-        "content": "Go to youtube and get the short url of a video and paste it in the play component."
-     },
   
  
   {
     "selector": "#tutorialButton",
-    "step": 11,
+    "step": 10,
     "title": "",
 	"marked": true,
     "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
