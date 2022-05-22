@@ -62,7 +62,7 @@
     "title": "",
 	"marked": true,
     "content": "Press Save ![image](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg) to try the system."
-  }
+  },
   {
     "selector": "#tutorialButton",
     "step": 10,
