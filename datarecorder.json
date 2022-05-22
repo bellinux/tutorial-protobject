@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic SpeechRecognition tutorial",
-    "content": "In this tutorial you will learn how to use your smartphone to recognize what you are saying."
+    "title": "Data recorder tutorial",
+    "content": "In this tutorial you will learn how to use your smartphone to save information in csv format."
   },
   {
     "selector": "#tutorialButton",
@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **DataRecorder** to make your smartphone vibrate <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/>"
+    "content": "Select **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/>"
   },
  
   {
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **record**  <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/datarecorder.png)</span> <br/><br/>component into the workspace"
+    "content": "Move the **record**  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/datarecorder.png)</span> <br/>component into the workspace"
 
   },
   
@@ -53,7 +53,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/> <br/> move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/data.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/> <br/> move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/data.png)</span><br/>this will allow to have the numbers recorded"
       },
   
  {
@@ -61,7 +61,7 @@
     "step": 9,
     "title": "",
 	"marked": true,
-    "content": "Press Save ![image](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg) to try the system."
+    "content": "Press <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg)</span>  to save the data in csv format"
   },
   {
     "selector": "#tutorialButton",
