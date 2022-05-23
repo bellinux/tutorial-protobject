@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
 
   },
   {
@@ -59,7 +59,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Gives a name to the image to be recognized<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/>click on learn another image to recognize something else"
+        "content": "Gives a name to the image to be recognized<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
       },
       {
         "selector": "#tutorialButton",
@@ -81,14 +81,14 @@
         "step": 12,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar<br/> and move the **text** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png)<br/> to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar<br/> <br/>and move the **text** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png)<br/> to the workspace"
       },
    {
     "selector": "#tutorialButton",
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/detection.png)<br/> and the **Text2Speech**<br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/text-to-speech.png)</span><br/> components to the workspace"
+    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/detection.png)<br/> <br/>and the **Text2Speech**<br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/text-to-speech.png)</span><br/> components to the workspace"
    },
   {
     "selector": "#tutorialButton",
@@ -103,7 +103,7 @@
     "step": 15,
     "title": "",
     "marked": true,
-    "content": "To be aware of what the camera is detecting, we will use the events, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar. <br/><br/>Then, move to the workspace the ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/event-component.png)<br/> component and move the event component<br/><br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/smart-camera-event.png)<br/> and place it as shown in the picture <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/event.png)</span> <br/> <br/>"
+    "content": "To be aware of what the camera is detecting, we will use the events, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar. <br/><br/>Then, move to the workspace the ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/event-component.png)<br/> component and move the event component<br/><br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/smart-camera-event.png)<br/><br/> and place it as shown in the picture <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/event.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
