@@ -24,14 +24,14 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **SmartphoneOrientation** Press the button to access the orientation data from your smartphone's accelerometer. <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span> <br/><br/> This will be used to choose the sound to be played depending on the orientation of the smartphone."
+    "content": "Select **SmartphoneOrientation** to access the orientation data from your smartphone's accelerometer. <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span> <br/><br/> This will be used to choose the sound to be played depending on the orientation of the smartphone."
   },
   {
     "selector": "#tutorialButton",
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the rgb lamp locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
 
   },
   {
@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same with the **DrumKeyboard** to use your smartphone as an instrument sounds player <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DrumKeyboard-Item.png)</span> <br/>"
+    "content": "Press devices again, select **DrumKeyboard** to use your smartphone as an instrument sounds player. <br/>Press on your smartphone **Add another input/output via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
  
   {
@@ -67,14 +67,14 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay**<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/>component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay**<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/><br/>component to the workspace"
       },
    {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **Orientation** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)<br/><br/> four times to the workspace, and the <br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/> <br/>components to the workspace."
+    "content": "Move the **Orientation** <br/><span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/orientation.png)</span><br/> four times to the workspace, and the <br/><br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/instruments-with-smartphone/play.png)</span><br/>components to the workspace."
    },
   {
     "selector": "#tutorialButton",
