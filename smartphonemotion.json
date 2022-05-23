@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Basic SpeechRecognition tutorial",
-    "content": "In this tutorial you will learn how to use your smartphone to recognize what you are saying."
+    "title": "Smartphone motion tutorial",
+    "content": "In this tutorial you will learn how to measure the movement of your smartphone on one axis."
   },
   {
     "selector": "#tutorialButton",
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
   },
   {
     "selector": "#tutorialButton",
@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **axis**  <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/image.png)</span> and the **event** <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/event.png)</span><br/><br/>components into the workspace"
+    "content": "Move the **axis**  <br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/image.png)</span><br/><br/> and the **event** <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/event.png)</span><br/><br/>components into the workspace"
 
   },
   {
@@ -60,14 +60,14 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the print and axis components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/log.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the print and axis components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/log.png)</span><br/>this is to show by console the movement measurement of your smartphone on the x-axis."
       },
   {
         "selector": "#tutorialButton",
         "step": 10,
         "title": "",
         "marked": true,
-        "content": " Put the components and select and axis as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/blocks.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": " Put the components and select and axis as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/blocks.png)</span><br/>this is to show by console the measurement of the movement of the smartphone on the x-axis when the smartphone moves on the x-axis, or y-axis, or z-axis."
       },
  
   {
