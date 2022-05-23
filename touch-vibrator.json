@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same with the **TouchButton** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> <br/> this will be used to make the smartphone vibrate when the button is touched."
+    "content": "Press Devices again, select **TouchButton** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> <br/> this will be used to make the smartphone vibrate when the button is touched.<br/><br/>Press on your smartphone **Add another input/output via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
  
    {
