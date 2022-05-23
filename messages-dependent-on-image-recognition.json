@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **Text2Speech** to say something using your device's speakers <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/>"
+    "content": "Press Devices again, select **Text2Speech** to say something using your device's speakers <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/><br/>Press on your smartphone **Add another input/output via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
  
   {
