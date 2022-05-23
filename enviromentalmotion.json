@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **intensity**  <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/enviromentalmotion/intensity.png)</span><br/><br/>and the **event**, the event component will help the program to know when there is a change in the intensity of measured motion <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/enviromentalmotion/event.png)</span><br/><br/>components into the workspace"
+    "content": "Move the **intensity** component <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/enviromentalmotion/intensity.png)</span><br/><br/>and the **event** components into the workspace, the event component will help the program to know when there is a change in the intensity of measured motion <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/enviromentalmotion/event.png)</span><br/><br/>"
 
   },
   
