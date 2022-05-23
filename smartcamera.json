@@ -2,8 +2,8 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Messages dependent on image recognition",
-    "content": "In this tutorial you will learn how to play voice messages dependent on image recognition."
+    "title": "Image recognition tutorial",
+    "content": "In this tutorial you will learn how to make your smartphone recognize images."
   },
   {
     "selector": "#tutorialButton",
@@ -23,7 +23,7 @@
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **SmartCamera** to say something using your device's speakers <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartCamera-Item.png)</span> <br/>"
+    "content": "Select **SmartCamera**<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartCamera-Item.png)</span> <br/>"
   },
  
   {
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the camera locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
 
   },
   {
@@ -52,7 +52,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Gives a name to the image to be recognized<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/>click on learn another image to recognize something else"
+        "content": "Gives a name to the image to be recognized<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
       },
       {
         "selector": "#tutorialButton",
@@ -66,7 +66,7 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/detection.png)<br/>and the **event** to be aware of what the camera is detecting, we will use the events, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/event.png)</span><br/><br/>components into the workspace"
+    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/detection.png)<br/><br/>and the **event** components into the workspace, we will use the events to be aware of what the camera is detecting, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/event.png)</span>"
    },
  
    {
@@ -83,7 +83,7 @@
     "step": 12,
     "title": "",
     "marked": true,
-    "content": "Place the components as it shown in the picture <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/blocks.png)</span> <br/> <br/>"
+    "content": "Place the components as it shown in the picture <br/><br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/blocks.png)</span>"
   },
   {
     "selector": "#tutorialButton",
