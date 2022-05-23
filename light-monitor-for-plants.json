@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Do the same with the **Text2Speech** Press the button to use the device as a text-to-speech player. <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span> <br/> <br/>and the **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/><br/> This will be used to store the captured light intensity in a .csv file."
+    "content": "Press devices again, select **Text2Speech**<br/><br/><span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span><br/><br/> to use the device as a text-to-speech player.<br/><br/>Press on your smartphone **Add another input/output via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally. <br/> <br/>Do the same for the **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/><br/> This will be used to store the captured light intensity in a .csv file."
   },
  
   {
