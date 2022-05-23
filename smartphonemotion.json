@@ -67,7 +67,7 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": " Put the components and select and axis as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/blocks.png)</span><br/>this is to show by console the measurement of the movement of the smartphone on the x-axis when the smartphone moves on the x-axis, or y-axis, or z-axis."
+        "content": " Put the components and select and axis as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphonemotion/blocks.png)</span><br/><br/>this is to show by console the measurement of the movement of the smartphone on the x-axis when the smartphone moves on the x-axis, or y-axis, or z-axis."
       },
  
   {
