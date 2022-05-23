@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open the rgb lamp locally.</sup></sub>"
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
 
   },
   {
@@ -52,7 +52,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar,<br/> press **create variable** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/create-variable.png) and create a component called counter,<br/> move the **set variable** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png) <br/>to the workspace, this will be used to count the number of bars plotted."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/Variables.png) on the sidebar,<br/><br/> press **create variable** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/create-variable.png) and create a component called counter,<br/> move the **set variable** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Variables/set-variable.png)<br/> <br/>to the workspace, this will be used to count the number of bars plotted."
       },
 	
 	{
@@ -60,7 +60,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/Functions.png) on the sidebar,<br/> move the <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/function-component.png)<br/> component to the workspace, <br/>then move the **call-function** <br/>[QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/call-function.png)<br/> component to the workspace, this will be used to create a function that plots the captured noise values."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/Functions.png) on the sidebar,<br/><br/> move the <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/function-component.png)<br/> component to the workspace, <br/>then move the **call-function** <br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Functions/call-function.png)<br/> <br/>component to the workspace, this will be used to create a function that plots the captured noise values."
       },
  
   {
@@ -75,14 +75,14 @@
         "step": 11,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/>move the **basic-operations** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png) component, <br/>and move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component, to the workspace, three times"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/><br/>move the **basic-operations** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png) component, <br/>and move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component, to the workspace, three times"
       },
 	{
         "selector": "#tutorialButton",
         "step": 12,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar,<br/><br/> move the **delay** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/> component to the workspace, the timing component will be used to know how often to wait to take the next sample."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar,<br/><br/> move the **delay** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/><br/> component to the workspace, the timing component will be used to know how often to wait to take the next sample."
       },
 	
    {
@@ -90,14 +90,14 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png), <br/>the **Draw** <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/> and the **clear** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)<br/> components to the workspace."
+    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png), <br/><br/>the **Draw** <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/><br/> and the **clear** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)<br/> components to the workspace."
    },
   {
     "selector": "#tutorialButton",
     "step": 14,
     "title": "",
     "marked": true,
-    "content": "Create this function as in the image below <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/function.png)</span> <br/> <br/> this function is for plotting on the board, put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/blocks.png)</span> <br/><br/> The idea is to use the counter to limit the number of bars to be plotted, after the number of bars to be plotted is reached, the screen is cleared and the plotting starts again."
+    "content": "Create this function as in the image below <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/function.png)</span> <br/> this function is for plotting on the board, put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/blocks.png)</span> <br/><br/> The idea is to use the counter to limit the number of bars to be plotted, after the number of bars to be plotted is reached, the screen is cleared and the plotting starts again."
 
   },
    {
