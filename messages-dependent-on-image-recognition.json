@@ -95,7 +95,7 @@
     "step": 14,
     "title": "",
     "marked": true,
-    "content": "Put the components of the previous steps as in the image <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/blocks.png)</span> <br/> the idea is to evaluate what the camera is detecting, and if it is detecting the image1, say image1 with the text2speech, and in case it does not recognize this image, evaluate if it is detecting the image2, and in this case in an analogous way say image2 with the text2speech.
+    "content": "Put the components of the previous steps as in the image <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/blocks.png)</span> <br/> the idea is to evaluate what the camera is detecting, and if it is detecting the image1, say image1 with the text2speech, and in case it does not recognize this image, evaluate if it is detecting the image2, and in this case in an analogous way say image2 with the text2speech."
 
   },
   {
