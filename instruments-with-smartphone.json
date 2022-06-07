@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Press devices again, select **DrumKeyboard** <br/><br/><span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span><br/><br/>to use your smartphone as an instrument sounds player. <br/>Press on your smartphone **Add another input/output via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-another-input-output-via-qr.jpeg)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
+    "content": "Press devices again, select **DrumKeyboard** <br/><br/><span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartphoneOrientation-Item.png)</span><br/><br/>to use your smartphone as an instrument sounds player. <br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
  
   {
