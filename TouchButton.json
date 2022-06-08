@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **Touched** <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/button.png)</span> <br/><br/>and the **event** <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/event.png)</span><br/>components into the workspace"
+    "content": "Moves the following components to the workspace <br/><br/> the **Touched** component <br/><br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/button.png)</span> <br/><br/>and the **event** component <br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/event.png)</span>"
 
   },
  
@@ -54,7 +54,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> component and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImgMargin>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/log.png)</span><br/><br/>this is to display on the console whether the button is being touched or not"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** component <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/touchbutton/log.png)</span><br/><br/>this is to display on the console whether the button is being touched or not"
       },
  
 	{
