@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **record**  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/datarecorder.png)</span> <br/>component into the workspace"
+    "content": "Move the **record** component into the workspace  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/datarecorder.png)</span> <br/>"
 
   },
   
@@ -53,7 +53,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/> <br/> move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/data.png)</span><br/>this will allow to have the numbers recorded"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/> <br/> moves the **number** component to the workspace<br/><br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png)</span><br/> <br/> and put the components as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/data.png)</span><br/>this will allow to have the numbers recorded"
       },
   
  {
@@ -61,7 +61,7 @@
     "step": 9,
     "title": "",
 	"marked": true,
-    "content": "Press Save <br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg)</span> <br/> to save the data in csv format"
+    "content": "Press Save to save the data in csv format <br/><br/><span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/datarecorder/image.jpg)</span> "
   },
   {
     "selector": "#tutorialButton",
