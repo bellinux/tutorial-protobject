@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **orientation**  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/image.png)</span><br/><br/> and the **event** <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/event.png)</span><br/><br/>components into the workspace"
+    "content": "Moves the following components to the workspace<br/><br/> the **orientation** component  <br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/image.png)</span><br/><br/> and the **event** component <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/event.png)</span><br/><br/>"
 
   },
   {
@@ -60,7 +60,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the print and orientation components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/log.png)</span><br/><br/>this is to display by console a number representative of the orientation of your smartphone on the x-axis."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** component <br/> <br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> <br/>and put the print and orientation components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartphoneorientation/log.png)</span><br/><br/>this is to display by console a number representative of the orientation of your smartphone on the x-axis."
       },
   {
         "selector": "#tutorialButton",
