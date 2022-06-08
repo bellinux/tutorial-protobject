@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **enabled** component <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** component <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span><br/><br/> into the workspace"
+    "content": "Moves the following components to the workspace<br/><br/> the **enabled** component <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** component <br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span><br/><br/>"
 
   },
  
@@ -54,7 +54,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> component and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/log.png)</span><br/><br/>this is to show on the console whether the switch is on or off."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> move the **print** component <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> and put the text component in the print component as in the image <br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/log.png)</span><br/><br/>this is to show on the console whether the switch is on or off."
       },
  
 	{
@@ -62,7 +62,7 @@
     "step":9,
     "title": "",
     "marked": true,
-    "content": "Now add the event component as in the image below <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/blocks.png)</span>"
+    "content": "Now add the event component as in the image below <br/><br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/blocks.png)</span>"
 
   },
   {
