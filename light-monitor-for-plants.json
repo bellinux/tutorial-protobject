@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Press devices again, select **Text2Speech**<br/><br/><span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span><br/><br/> to use the device as a text-to-speech player.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally. <br/> <br/>Do the same for the **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/><br/> This will be used to store the captured light intensity in a .csv file."
+    "content": "Press devices again, select **Text2Speech**<br/><br/><span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/Text2Speech-Item.png)</span><br/><br/> to use the device as a text-to-speech player.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally. <br/> <br/>Do the same for the **DataRecorder** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/DataRecorder-Item.png)</span> <br/><br/> This will be used to store the captured light intensity in a .csv file."
   },
  
   {
@@ -53,28 +53,28 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png)<br/> and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)<br/> components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>moves the following components to the workspace<br/><br/>the **if** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png)<br/><br/> and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
       },
 	{
         "selector": "#tutorialButton",
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/>move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/>move the **number** component to the workspace<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png)"
       },
 	{
         "selector": "#tutorialButton",
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/>move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/>move the **number** component to the workspace<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)"
       },
    {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/intensity.png),<br/><br/> the **Text2Speech**<span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/text2speech.png)</span><br/>and the **record-data**<span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/record-data.png)</span> components to the workspace."
+    "content": "Moves the following components to the workspace<br/><br/> the **Intensity** component <br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/intensity.png)<br/><br/> the **Text2Speech** component<br/><br/><span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/text2speech.png)</span><br/>and the **record-data** component<br/><br/><span class=tutorialImgWide> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/record-data.png)</span>"
    },
   {
     "selector": "#tutorialButton",
@@ -89,7 +89,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "To constantly monitor the amount of light that is reaching the plant, we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/> <br/>Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> <br/>component and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/main-loop.png)</span> <br/> <br/>"
+    "content": "To constantly monitor the amount of light that is reaching the plant, we will use the main loop component, which allows us to rerun the code after it has finished executing.<br/><br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/> <br/>Then, move to the workspace the main loop component <br/> <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> <br/>and place it as shown in the picture <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/light-monitor-for-plants/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
