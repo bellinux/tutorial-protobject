@@ -59,14 +59,14 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "After finishing the training click on end training <span class=tutorialImgNoBorder>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/training.png)"
+        "content": "After finishing the training click on end training <br/><br/><span class=tutorialImgMargin>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/training.png)</span>"
       },
 	{
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/detection.png)<br/><br/>and the **event** components into the workspace, we will use the events to be aware of what the camera is detecting, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/event.png)</span>"
+    "content": "Moves the following components to the workspace<br/><br/> the **detection** component<br/><br/><span class=tutorialImgMargin> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/detection.png)</span><br/><br/>and the **event** component into the workspace  <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/event.png)</span><br/><br/>we will use the events to be aware of what the camera is detecting, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code."
    },
  
    {
