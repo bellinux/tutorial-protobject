@@ -52,7 +52,7 @@
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Press devices again, select **RGBLamp**<br/><br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span> <br/>to generate a second RGBLamp. <br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
+    "content": "Press devices again, select **RGBLamp** to generate a second RGBLamp<br/><br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/RGBLamp-Item.png)</span> <br/> <br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
   {
     "selector": "#tutorialButton",
@@ -66,46 +66,39 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Now we need to simulate that certain seconds pass and the traffic lights change color, for this we will use the wait component, which allows us to leave our program waiting for a certain amount of time. <br/> <br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar"
+    "content": "Now we need to simulate that certain seconds pass and the traffic lights change color, for this we will use the wait component, which allows us to leave our program waiting for a certain amount of time. <br/> <br/> Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar<br/><br/> move the **delay** component into the workspace<br/> <span class=tutorialImgNoBorder>![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)</span> <br/><br/> and set the amount of time the program should wait to change the color of the lights <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait.png)</span>"
   },
    {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) button, <br/> move it to the workspace and set the amount of time the program should wait to change the color of the lights <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait.png)</span>"
-  },
-   {
-    "selector": "#tutorialButton",
-    "step": 12,
-    "title": "",
-    "marked": true,
     "content": "As before, you have to set the traffic lights to the corresponding color, move to the workspace the component to set the color of each of the lamps, and set yellow color in the first traffic light and green color in the second traffic light. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colours2.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
-    "step": 13,
+    "step": 12,
     "title": "",
     "marked": true,
     "content": "Once again, we need to simulate that certain seconds pass and the traffic lights change color <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/wait2.png)</span>"
   },
   {
     "selector": "#tutorialButton",
-    "step": 14,
+    "step": 13,
     "title": "",
     "marked": true,
     "content": "One more time, repeat the process to set the traffic light colors to the corresponding colors and add the wait component, in general you should have something like in the image below <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/set-colours3.png)</span> <br/> <br/> in the next step we will make the traffic light cycle repeat itself"
   },
   {
     "selector": "#tutorialButton",
-    "step": 15,
+    "step": 14,
     "title": "",
     "marked": true,
-    "content": "To repeat the traffic light cycle we will use the main loop component, which allows us to re-run the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/><br/> Then, move to the workspace the <br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/main-loop.png)</span> <br/> <br/>"
+    "content": "To repeat the traffic light cycle we will use the main loop component, which allows us to re-run the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/Loops.png) on the sidebar.<br/><br/> Then, move to the workspace the main loop component<br/><br/>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> <br/>and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-traffic-lights/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
-    "step": 16,
+    "step": 15,
     "title": "",
 	"marked": true,
     "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
