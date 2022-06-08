@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Moves the following components to the workspace<br/><br/>  the **play** component<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span><br/><br/> and the **stop** component <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/stop.png)</span>"
+    "content": "Moves the following components to the workspace<br/><br/>  the **play** component<br/> <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span><br/><br/> and the **stop** component <br/><br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/stop.png)</span>"
 
   },
   {
