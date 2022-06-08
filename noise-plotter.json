@@ -75,7 +75,7 @@
         "step": 11,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/><br/>move the **basic-operations** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png) component, <br/>and move the **number** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png) component, to the workspace, three times"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/Math.png) on the sidebar, <br/><br/>moves the following components to the workspace<br/><br/>the **basic-operations** component<br/> <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/basic-operations-component.png) <br/> <br/> and the **number** component three times <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png)"
       },
 	{
         "selector": "#tutorialButton",
