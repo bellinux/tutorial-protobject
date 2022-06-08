@@ -75,7 +75,7 @@
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Put the components of the previous steps as in the image <br/><br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/blocks.png)</span> <br/> <br/>The idea is to recognize your voice and evaluate whether what the smartphone recognizes matches any of the commands."
+    "content": "Put the components of the previous steps as in the image <br/><br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/blocks.png)</span> <br/>The idea is to recognize your voice and evaluate whether what the smartphone recognizes matches any of the commands."
 
   },
    {
