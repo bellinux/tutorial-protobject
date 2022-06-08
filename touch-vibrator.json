@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Press Devices again, select **TouchButton** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> <br/> this will be used to make the smartphone vibrate when the button is touched.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
+    "content": "Press Devices again, select **TouchButton** to create a touch button on your device's screen <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/TouchButton-Item.png)</span> <br/> <br/> this will be used to make the smartphone vibrate when the button is touched.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> <br/>and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
  
    {
@@ -60,7 +60,7 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the **touch** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png), and the **vibration** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/vibration.png)<br/> components to the workspace, repeat the process for the vibration component and set it to turn off vibration."
+    "content": "Moves the following components to the workspace <br/><br/>the **touch** component<br/><br/><span class=tutorialImgNoBorder> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png)</span><br/><br/> and the **vibration** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/vibration.png)<br/><br/> repeat the process for the vibration component and set it to turn off vibration."
    },
   {
     "selector": "#tutorialButton",
