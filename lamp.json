@@ -47,7 +47,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **lamp**<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplelamp/lamp.png) component to the workspace."
+    "content": "Moves the **lamp** component to the workspace <br/><br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplelamp/lamp.png)</span>"
    },
   {
     "selector": "#tutorialButton",
