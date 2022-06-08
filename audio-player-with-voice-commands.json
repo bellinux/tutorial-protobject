@@ -68,7 +68,7 @@
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Move the following components to the workspace<br/><br/> the **play audio** component <br/> <br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span><br/><br/> the **stop** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png) <BR/><br/> and the **text** component<br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png)<br/>"
+    "content": "Move the following components to the workspace<br/><br/> the **play audio** component <br/> <br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/play-audio.png)</span><br/>the **stop** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/stop-audio.png) <BR/><br/> and the **text** component<br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audio-player-with-voice-commands/text.png)<br/>"
    },
   {
     "selector": "#tutorialButton",
