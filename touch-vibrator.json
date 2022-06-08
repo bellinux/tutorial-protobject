@@ -60,7 +60,7 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Moves these other components to the workspace <br/><br/>the **touch** component<br/><br/><span class=tutorialImgNoBorder> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png)</span><br/><br/> and the **vibration** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/vibration.png)<br/><br/> repeat the process for the vibration component and set it to turn off vibration."
+    "content": "Moves these other components to the workspace <br/><br/>the **touch** component<br/><br/><span class=tutorialImgNoBorder> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png)</span><br/><br/> and the **vibration** components<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/vibrator/image.png)"
    },
   {
     "selector": "#tutorialButton",
