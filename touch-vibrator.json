@@ -53,14 +53,14 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar,<br/> <br/>move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/> the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) <br/> and the **true** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/true-component.png) components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar,<br/> <br/>moves the following components to the workspace <br/><br/> the **if** component ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/><br/> the **comparison** component ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png) <br/><br/> and the **true** component ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/true-component.png) <br/><br/>"
       },
    {
     "selector": "#tutorialButton",
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Moves the following components to the workspace <br/><br/>the **touch** component<br/><br/><span class=tutorialImgNoBorder> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png)</span><br/><br/> and the **vibration** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/vibration.png)<br/><br/> repeat the process for the vibration component and set it to turn off vibration."
+    "content": "Moves these other components to the workspace <br/><br/>the **touch** component<br/><br/><span class=tutorialImgNoBorder> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/touch-button.png)</span><br/><br/> and the **vibration** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/touch-vibrator/vibration.png)<br/><br/> repeat the process for the vibration component and set it to turn off vibration."
    },
   {
     "selector": "#tutorialButton",
