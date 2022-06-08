@@ -45,7 +45,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Press Devices again, select **SmartCamera** to detect images after custom training using a camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartCamera-Item.png)</span> <br/><br/> this will be used to recognize images after training.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
+    "content": "Press Devices again, select **SmartCamera** to detect images after custom training using a camera <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SmartCamera-Item.png)</span> <br/><br/> this will be used to recognize images after training.<br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
   },
   {
         "selector": "#tutorialButton",
@@ -59,14 +59,14 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Gives a name to the image to be recognized<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
+        "content": "Gives a name to the image to be recognized<br/><br/><br/><span class=tutorialImgMargin> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
       },
       {
         "selector": "#tutorialButton",
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "After finishing the training click on end training <span class=tutorialImgNoBorder>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/training.png)"
+        "content": "After finishing the training click on end training<br/> <span class=tutorialImgNoBorder>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/training.png)"
       },
  
    {
@@ -74,14 +74,14 @@
         "step": 11,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar,<br/><br/> move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/>and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)<br/><br/> components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar,<br/><br/> moves the following components to the workspace<br/><br/> the **if** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/><br/>and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
       },
    {
         "selector": "#tutorialButton",
         "step": 12,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar<br/> <br/>and move the **text** ![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png)<br/> to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/Text.png) on the sidebar<br/> <br/>and move the **text** component to the workspace<br/><br/>![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Text/text-component.png)"
       },
    {
     "selector": "#tutorialButton",
