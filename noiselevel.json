@@ -53,7 +53,7 @@
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> moves the **print** component into the workspace <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/> and put the components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noiselevel/log.png)</span><br/><br/>this is for displaying on console the noise intensity measured by your smartphone"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar, <br/> <br/> moves the **print** component into the workspace <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> and put the components as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/noiselevel/log.png)</span><br/><br/>this is for displaying on console the noise intensity measured by your smartphone"
       },
   {
         "selector": "#tutorialButton",
