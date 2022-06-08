@@ -67,7 +67,7 @@
     "title": "",
     "marked": true,
     "content": "Move the following components to the workspace<br/><br/> the **number** component <br/><br/>![number](https://github.com/bellinux/tutorial-protobject/raw/main/images/Math/number-component.png)<br/><br/> the **intensity** component<br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/intensity.png)</span><br/><br/> and the **player** component<br/> <br/><span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-burglar-alarm/play-audio.png)</span>"
-   }
+   },
   
   {
     "selector": "#tutorialButton",
