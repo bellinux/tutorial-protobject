@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Move the **play** <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span><br/> and the **stop** <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/stop.png)</span><br/>components into the workspace"
+    "content": "Moves the following components to the workspace<br/><br/>  the **play** component<br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/SpeechRecognition/text.png)</span><br/><br/> and the **stop** component <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/stop.png)</span>"
 
   },
   {
@@ -60,7 +60,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/> <br/> move the **delay** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) <br/> component and put the components as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/image.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/> <br/> move the **delay** component <br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png) <br/> <br/> and put the components as in the image <br/> <br/> <span class=tutorialImgWide>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/audioplayer/image.png)</span><br/>this is for you to see on the console what your smartphone is recognizing from what you are saying"
       },
  
   {
