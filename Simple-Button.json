@@ -44,7 +44,7 @@
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Moves the following components to the workspace<br/><br/> the **enabled** component <br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** component <br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span><br/><br/>"
+    "content": "Moves the following components to the workspace<br/><br/> the **enabled** component <br/> <br/><span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/button.png)</span> <br/><br/>and the **event** component <br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplebutton/event.png)</span><br/><br/>"
 
   },
  
