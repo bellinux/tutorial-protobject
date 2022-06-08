@@ -74,7 +74,7 @@
         "step": 11,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar,<br/><br/> move the **print** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/> component to the workspace and put the detection component into the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/log.png)</span>"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/Log.png) on the sidebar,<br/><br/> move the **print** component to the workspace <br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Log/print.png) <br/><br/>  and put the detection component into the print component as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/smartcamera/log.png)</span>"
       },
    
   
