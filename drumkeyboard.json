@@ -60,7 +60,7 @@
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Move the  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drumkeyboard.png)</span><br/> component into the workspace to play a sequence of notes with both instruments with a pause in between the sequence"
+    "content": "Moves the component shown in the image below into the workspace to play a sequence of notes with both instruments with a pause in between the sequence  <br/> <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/drumkeyboard/drumkeyboard.png)</span><br/>"
 
   },
   
