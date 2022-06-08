@@ -68,7 +68,7 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>move the **if** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png), <br/>and the **comparison** ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)<br/> components to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/><br/>moves the following components to the workspace<br/><br/> the **if** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/><br/>and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
       },
 	{
         "selector": "#tutorialButton",
@@ -82,7 +82,7 @@
         "step": 12,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar,<br/><br/> move the **delay** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/><br/> component to the workspace, the timing component will be used to know how often to wait to take the next sample."
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar,<br/><br/> move the **delay** component to the workspace <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/><br/> the delay component will be used to know how often to wait to take the next sample."
       },
 	
    {
@@ -90,7 +90,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "Move the **Intensity** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png), <br/><br/>the **Draw** <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/><br/> and the **clear** <br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)<br/> components to the workspace."
+    "content": "Moves the following components to the workspace<br/><br/> the **Intensity** component <br/><br/><span class=tutorialNoBorder>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png)</span> <br/><br/>the **Draw** component<br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/><br/> and the **clear** component<br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)"
    },
   {
     "selector": "#tutorialButton",
@@ -105,7 +105,7 @@
     "step": 15,
     "title": "",
     "marked": true,
-    "content": "To sample constantly we will use the main loop component, which allows us to rerun the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar.<br/><br/> Then, move to the workspace the<br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> component and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/main-loop.png)</span> <br/> <br/>"
+    "content": "To sample constantly we will use the main loop component, which allows us to rerun the code after it has finished executing. <br/><br/>Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar.<br/><br/> Then, move to the workspace the main loop component <br/><br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Loops/main-loop-component.png)<br/> <br/>and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/main-loop.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
