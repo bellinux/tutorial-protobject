@@ -67,7 +67,7 @@
         "step": 10,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay** component<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/><br/>component to the workspace"
+        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/Timing.png) on the sidebar, <br/><br/>move the **delay** component to the workspace<br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Timing/delay-component.png)<br/>"
       },
    {
     "selector": "#tutorialButton",
