@@ -88,7 +88,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "Move the **detection** ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/detection.png)<br/> <br/>and the **Text2Speech**<br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/text-to-speech.png)</span><br/> components to the workspace"
+    "content": "Moves the following components to the workspace<br/><br/>move the **detection** component ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/detection.png)<br/> <br/>and the **Text2Speech** component <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/text-to-speech.png)</span>"
    },
   {
     "selector": "#tutorialButton",
@@ -103,7 +103,7 @@
     "step": 15,
     "title": "",
     "marked": true,
-    "content": "To be aware of what the camera is detecting, we will use the events, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/><br/> Move to the workspace the event component<br/><br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/smart-camera-event.png)<br/><br/> and place it as shown in the picture <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/event.png)</span> <br/> <br/>"
+    "content": "To be aware of what the camera is detecting, we will use the events, imagine that there is a person watching what the camera captures and when a change occurs, he notifies us to execute the code. <br/><br/> Move to the workspace the event component<br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/smart-camera-event.png)</span><br/><br/> and place it as shown in the picture <br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/event.png)</span> <br/> <br/>"
   },
   {
     "selector": "#tutorialButton",
