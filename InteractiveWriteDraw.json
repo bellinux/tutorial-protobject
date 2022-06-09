@@ -2,7 +2,7 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Hello World with InteractiveWriteDraw tutorial",
+    "title": "InteractiveWriteDraw text tutorial",
     "content": "In this tutorial you will learn how to write text on an interactive whiteboard."
   },
   {
