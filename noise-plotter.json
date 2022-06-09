@@ -90,7 +90,7 @@
     "step": 13,
     "title": "",
     "marked": true,
-    "content": "Moves the following components to the workspace<br/><br/> the **Intensity** component <br/><br/><span class=tutorialNoBorder>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png)</span> <br/><br/>the **Draw** component<br/><br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/><br/> and the **clear** component<br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)"
+    "content": "Moves the following components to the workspace<br/><br/> the **Intensity** component <br/><br/><span class=tutorialNoBorder>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/intensity.png)</span> <br/><br/>the **Draw** component<br/><br/> <span class=tutorialImgWide>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/draw.png)</span><br/><br/> and the **clear** component<br/><br/>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/noise-plotter/clear.png)"
    },
   {
     "selector": "#tutorialButton",
