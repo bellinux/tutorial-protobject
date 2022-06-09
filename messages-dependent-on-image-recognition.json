@@ -59,7 +59,7 @@
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Gives a name to the image to be recognized<br/><br/><br/><span class=tutorialImgMargin> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
+        "content": "Gives a name to the image to be recognized<br/><br/><br/><span class=tutorialImg> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/image.png)</span> <br/><br/>Click on record this example to use the current image for training, you can use more images <br/><br/><span class=tutorialImg>![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/voice-messages-dependent-on-image-recognition/example.png)</span> <br/><br/>click on learn another image to recognize something else"
       },
       {
         "selector": "#tutorialButton",
