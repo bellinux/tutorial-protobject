@@ -2,28 +2,28 @@
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Lamp switch",
-    "content": "In this tutorial you will learn how to make a lamp switch, the idea is that when the switch is on the lamp turns on and when the switch is off the lamp turns off."
+    "title": "Lámpara con interruptor",
+    "content": "En este tutorial aprenderás a simular una lámpara y un botón para encenderla y apagarla."
   },
   {
     "selector": "#tutorialButton",
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Press <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>dispositivos</span> on the sidebar"
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>Dispositivos</span> en la barra lateral izquierda"
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/AddDevice.png) button"
+    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>✙ Agregar dispositivo</span>"
   }, {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Select **SimpleLamp** to generate a lamp on the screen.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
+    "content": "Selecciona **Lamp** para que se genere una lampara en la pantalla.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
   },
  
   {
@@ -31,7 +31,7 @@
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
+    "content": "Escanea el  QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
 
   },
   {
