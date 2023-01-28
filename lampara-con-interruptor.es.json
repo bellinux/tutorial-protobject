@@ -10,7 +10,7 @@
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Press <span style="background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 15px;">dispositivos</span> on the sidebar"
+    "content": "Press <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>dispositivos</span> on the sidebar"
   },
   {
     "selector": "#tutorialButton",
