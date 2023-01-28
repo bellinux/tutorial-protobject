@@ -1,0 +1,60 @@
+PTJTutorial([
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "SimpleLamp tutorial",
+    "content": "In this tutorial you will learn how to generate a lamp on the screen of your device."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+    "marked": true,
+    "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Devices.png) on the sidebar"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Press ![add output](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/AddDevice.png) button"
+  }, {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+    "marked": true,
+    "content": "Select **SimpleLamp** <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
+  },
+ 
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "marked": true,
+    "content": "Scan the QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "content": "Press **Confirm** when asked."
+  },
+ 
+
+   {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Moves the **lamp** component to the workspace <br/><br/> <span class=tutorialImgMargin>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simplelamp/lamp.png)</span>"
+   },
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+	"marked": true,
+    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
+  }
+  
+ ])
