@@ -1,4 +1,4 @@
-[
+PTJTutorial([
   {
     "selector": "#tutorialButton",
     "step": 1,
@@ -57,4 +57,4 @@
     "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
   }
   
- ]
+ ])
