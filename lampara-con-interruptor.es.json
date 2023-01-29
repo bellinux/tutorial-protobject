@@ -31,14 +31,14 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código QR con el smartphone o tablet que estás usando. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>También puedes presionar en <span style='background-color:#17a2b8; border: 2px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet.</sup></sub>"
+    "content": "Escanea el código <span style='background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>🔳QR</span>  con el smartphone o tablet que estás usando. También puedes presionar en  para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
 
   },
   {
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Presiona <span style='background-color:#007bff; border: 2px solid #007bff;border-radius: 3px;color:white;'><strong>Confirmar</strong></span> when asked."
+    "content": "Presiona <span style='background-color:#007bff; border: 4px solid #007bff;border-radius: 3px;color:white;'>Confirmar</span> when asked."
   },
    {
     "selector": "#tutorialButton",
