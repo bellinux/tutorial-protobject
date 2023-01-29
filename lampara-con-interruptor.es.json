@@ -45,7 +45,7 @@ PTJTutorial([
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente, selecciona <span style='background-color:#E9EBEC; border: 2px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla<br/><br/> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR.<br/><br/> <sub><sup>También puedes presionar en <span style='background-color:#17a2b8; border: 2px solid #17a2b8;border-radius: 3px;color:white;'>_Abrir en esta ventana_</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet.</sup></sub>"
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 1px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla<br/><br/> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR.<br/><br/> <sub><sup>También puedes presionar en <span style='background-color:#17a2b8; border: 2px solid #17a2b8;border-radius: 3px;color:white;'>_Abrir en esta ventana_</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet.</sup></sub>"
   },
  
    
@@ -54,7 +54,7 @@ PTJTutorial([
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> on the sidebar, <br/> <br/> moves the following components to the workspace<br/><br/> the <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;'><strong>**if**</strong></span> component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/> <br/>and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
+        "content": "Press <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> on the sidebar, <br/> <br/> moves the following components to the workspace<br/><br/> the <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'><strong>**if**</strong></span> component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/> <br/>and the <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'><strong>**comparison**</strong></span> component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
       },
    {
     "selector": "#tutorialButton",
