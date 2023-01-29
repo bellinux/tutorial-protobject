@@ -54,21 +54,21 @@ PTJTutorial([
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> en la barra lateral izquierda, <br> <br> mueve el componente siguiente al espacio de trabajo <br><br> el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode'>"
+        "content": "Presiona <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> en la barra lateral izquierda,  <br> mueve el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span>  al espacio de trabajo    <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode' width='104px'>"
       },
    {
     "selector": "#tutorialButton",
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Mueve los siguientes componentes al espacio de trabajo<br><br> el componente evento del botón <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/evento.png' alt='QrCode'><br><br> el componente habilitado del botón <span style='background-color:rgb(140, 192, 192); border: 2px solid rgb(140, 192, 192);border-radius: 3px;color:black;'><strong>habilitado</strong></span><br><br> <span class='tutorialImgMargin'><img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/boton.png' alt='QrCode'></span>"
+    "content": "Mueve los siguientes componentes al espacio de trabajo:<br><br> El componente evento del botón <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/evento.png' alt='QrCode' width='315px'><br><br> El componente habilitado del botón <span style='background-color:#bddbdb; border: 2px solid #bddbdb;border-radius: 3px;color:black;'>habilitado</span><br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/boton.png' alt='QrCode' width='259px'>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Ahora mueve los siguientes componentes de la lámpara al espacio de trabajo<br><br> el componente encender de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/apagar.png' alt='QrCode'><br><br> y el componente apagar de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>apagar</strong></span>"
+    "content": "Ahora mueve los siguientes componentes de la lámpara al espacio de trabajo:<br><br> El componente encender de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>encender</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/lampara.png' alt= 'QrCode'  width='269px'><br><br> Y el componente apagar de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>apagar</strong></span><br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/apagar.png' alt='QrCode' width='168px'>"
 
   },
   {
@@ -76,7 +76,7 @@ PTJTutorial([
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br/> <br/> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/bloques.png' alt='QrCode'> <br/>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/bloques.png' alt='QrCode' width='314px'> <br>"
 
   },
    
