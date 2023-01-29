@@ -10,20 +10,20 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>Dispositivos</span> en la barra lateral izquierda"
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> en la barra lateral izquierda"
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 15px;'>✙ Agregar dispositivo</span>"
+    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>"
   }, {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Selecciona **Lamp** para que se genere una lámpara simulada en la pantalla.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
+    "content": "Selecciona <span style='background-color:#E9EBEC; border: 2px solid #E9EBEC;border-radius: 3px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
   },
  
   {
@@ -31,21 +31,21 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código QR con el smartphone o tablet que estás usando. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>También puedes presionar en _Abrir en esta ventana_ si no dispones de un smartphone o tablet para abrir localmente el dispositivo.</sup></sub>"
+    "content": "Escanea el código QR con el smartphone o tablet que estás usando. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>También puedes presionar en _Abrir en esta ventana_ para abrir localmente el dispositivo si no dispones de un smartphone o tablet.</sup></sub>"
 
   },
   {
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Presiona <span style='background-color:#007bff; border: 2px solid #007bff;border-radius: 15px;'>**Confirmar**</span> when asked."
+    "content": "Presiona <span style='background-color:#007bff; border: 2px solid #007bff;border-radius: 3px;color:white;'><strong>Confirmar</strong></span> when asked."
   },
    {
     "selector": "#tutorialButton",
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona Dispositivos nuevamente, selecciona **SimpleButton** para generar un botón on/off en la pantalla<br/><br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleButton-Item.png)</span>  <br/><br/>Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 15px;'>**Scan**</span> y escanea el código QR. <sub><sup>También puedes presionar en _Abrir en esta ventana_ si no dispones de un smartphone o tablet para abrir localmente el dispositivo.</sup></sub>"
+    "content": "Presiona Dispositivos nuevamente, selecciona <span style='background-color:#E9EBEC; border: 2px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla<br/><br/> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR.<br/><br/> <sub><sup>También puedes presionar en _Abrir en esta ventana_ para abrir localmente el dispositivo si no dispones de un smartphone o tablet.</sup></sub>"
   },
  
    
@@ -54,7 +54,7 @@ PTJTutorial([
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/Logic.png) on the sidebar, <br/> <br/> moves the following components to the workspace<br/><br/> the **if** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/> <br/>and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
+        "content": "Press <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> on the sidebar, <br/> <br/> moves the following components to the workspace<br/><br/> the **if** component<br/><br/> ![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png) <br/> <br/>and the **comparison** component<br/><br/> ![comparison](https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png)"
       },
    {
     "selector": "#tutorialButton",
