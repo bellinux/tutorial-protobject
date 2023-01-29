@@ -17,13 +17,13 @@ PTJTutorial([
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid rgb(91, 165, 165);border-radius: 15px;'>✙ Agregar dispositivo</span>"
+    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 15px;'>✙ Agregar dispositivo</span>"
   }, {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Selecciona **Lamp** para que se genere una lampara en la pantalla.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
+    "content": "Selecciona **Lamp** para que se genere una lámpara simulada en la pantalla.<br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleLamp-Item.png)</span> <br/>"
   },
  
   {
@@ -31,21 +31,21 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el  QR code with your smartphone. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>Alternatively, click on _Open in this device_ to open it locally.</sup></sub>"
+    "content": "Escanea el código QR con el smartphone o tablet que estás usando. <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/qrscan.png)</span>  <br/> <br/> <sub><sup>También puedes presionar en _Abrir en esta ventana_ si no dispones de un smartphone o tablet para abrir localmente el dispositivo.</sup></sub>"
 
   },
   {
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Press **Confirm** when asked."
+    "content": "Presiona <span style='background-color:#007bff; border: 2px solid #007bff;border-radius: 15px;'>**Confirmar**</span> when asked."
   },
    {
     "selector": "#tutorialButton",
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Press devices again, select **SimpleButton** to generate an on/off button<br/><br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleButton-Item.png)</span>  <br/><br/>Press on your smartphone **Add device via QR code**<br/> <br/> <span class=tutorialImgNoBorder>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Add-device-via-qr-code.png)</span><br/><br/> and scan the QR code. Alternatively, click on _Open in this device_ to open it locally."
+    "content": "Presiona Dispositivos nuevamente, selecciona **SimpleButton** para generar un botón on/off en la pantalla<br/><br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/Devices/Items/SimpleButton-Item.png)</span>  <br/><br/>Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 15px;'>**Scan**</span> y escanea el código QR. <sub><sup>También puedes presionar en _Abrir en esta ventana_ si no dispones de un smartphone o tablet para abrir localmente el dispositivo.</sup></sub>"
   },
  
    
