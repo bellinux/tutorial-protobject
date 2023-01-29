@@ -10,14 +10,14 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> en la barra lateral izquierda"
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> en la barra lateral izquierda."
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>"
+    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
   }, {
     "selector": "#tutorialButton",
     "step": 4,
@@ -38,14 +38,14 @@ PTJTutorial([
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Presiona <span style='background-color:#007bff; border: 4px solid #007bff;border-radius: 3px;color:white;'>Confirmar</span> when asked."
+    "content": "Presiona <span style='background-color:#007bff; border: 4px solid #007bff;border-radius: 3px;color:white;'>Confirmar</span>."
   },
    {
     "selector": "#tutorialButton",
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 0px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla<br><br> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR. También puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 0px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla.<br><br> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR. También, puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
   },
  
    
@@ -54,36 +54,38 @@ PTJTutorial([
         "step": 8,
         "title": "",
         "marked": true,
-        "content": "Press <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> on the sidebar, <br> <br> moves the following components to the workspace<br><br> the <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span> component<br><br> <img src='https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/if-component.png' alt='QrCode'> <br> <br>and the <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>comparison</span> component<br><br> <img src='https://github.com/bellinux/tutorial-protobject/raw/main/images/Logic/comparison-component.png' alt='comparison'>"
+        "content": "Presiona <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> en la barra lateral izquierda, <br> <br> mueve el componente siguiente al espacio de trabajo <br><br> el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode'>"
       },
    {
     "selector": "#tutorialButton",
     "step": 9,
     "title": "",
     "marked": true,
-    "content": "Moves the following components to the workspace<br><br> the <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:#c4ff00;'><strong>SimpleButton</strong></span> component<br><br> <span class='tutorialImgMargin'><img src='https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-lamp-switch/button.png' alt='QrCode'></span><br><br> and the <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:#c4ff00;'><strong>lamp</strong></span> component two times<br><br> <span class='tutorialImgMargin'><img src='https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-lamp-switch/lamp.png' alt='QrCode'></span>"
+    "content": "Mueve los siguientes componentes al espacio de trabajo<br><br> el componente evento del botón <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/evento.png' alt='QrCode'><br><br> el componente habilitado del botón <span style='background-color:rgb(140, 192, 192); border: 2px solid rgb(140, 192, 192);border-radius: 3px;color:black;'><strong>habilitado</strong></span><br><br> <span class='tutorialImgMargin'><img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/boton.png' alt='QrCode'></span>"
    },
-  {
+	{
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Put the components of the previous steps as in the image <br/> <br/> <span class=tutorialImg>![simple lamp](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-lamp-switch/blocks.png)</span> <br/>"
+    "content": "Ahora mueve los siguientes componentes de la lámpara al espacio de trabajo<br><br> el componente encender de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/apagar.png' alt='QrCode'><br><br> y el componente apagar de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>apagar</strong></span>"
 
   },
-   {
+  {
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "To be attentive when the button is pressed, we will use events, imagine that there is a person attentive to when you press the button that tells the program that you pressed the button to turn on or turn off the lamp.<br/> <br/> Move to the workspace the event component <br/><br/> ![input](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-lamp-switch/event-SimpleButton.png) <br/> <br/>and place it as shown in the picture <br/> <br/> <span class=tutorialImg>![QrCode](https://github.com/bellinux/tutorial-protobject/raw/main/images/simple-lamp-switch/event.png)</span> <br/> <br/>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br/> <br/> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/bloques.png' alt='QrCode'> <br/>"
+
   },
+   
   {
     "selector": "#tutorialButton",
     "step": 12,
     "title": "",
 	"marked": true,
-    "content": "Press ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) to try the system."
+    "content": "Presiona el botón ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) para probar el prototipo."
   }
   
  ])
