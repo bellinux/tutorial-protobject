@@ -59,7 +59,7 @@ PTJTutorial([
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> en la barra lateral izquierda,  <br> mueve el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span>  al espacio de trabajo    <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode' width='104px'>"
+        "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 128 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>Lógica</span> en la barra lateral izquierda,  <br> mueve el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span>  al espacio de trabajo    <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode' width='104px'>"
       },
    {
     "selector": "#tutorialButton",
