@@ -59,7 +59,7 @@ PTJTutorial([
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='border-left-color: rgb(221, 221, 221);' class='sideButtonsTutorial'>L&uacute;gica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&es&static' height='70' width='90'></iframe>"
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&es&static' height='70' width='90'></iframe>"
       },
    {
     "selector": "#tutorialButton",
@@ -81,7 +81,7 @@ PTJTutorial([
     "step": 12,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?simplelamp&es&static' height='152' width='315'></iframe><br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?simplelamp&es&static' height='152' width='315'></iframe><br>"
 
   },
    
