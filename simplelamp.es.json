@@ -10,7 +10,7 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Dispositivos</span> en la barra lateral izquierda."
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.dispositivos+"</span> en la barra lateral izquierda."
   },
   {
     "selector": "#tutorialButton",
