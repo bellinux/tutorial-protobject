@@ -76,7 +76,7 @@ PTJTutorial([
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe style='border:0;' src='https://app.protobject.com/generate?simplelamp&es&static' height='224' width='324'></iframe><br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe class='tutorialImgWide' style='border:0;' src='https://app.protobject.com/generate?simplelamp&es&static' height='224' width='324'></iframe><br>"
 
   },
    
