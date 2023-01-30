@@ -90,7 +90,7 @@ PTJTutorial([
     "step": 13,
     "title": "",
 	"marked": true,
-    "content": "Presiona el botón <span style='background:red;'>&#9654;</span> para probar el prototipo."
+    "content": "Presiona el botón <span style='background: #dd4b39;font-size: 27px;color: white;padding: 0px 16px 2px 15px;border-radius: 20px;'>&#9658;</span> para probar el prototipo."
   }
   
  ])
