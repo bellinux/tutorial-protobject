@@ -76,7 +76,7 @@ PTJTutorial([
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/bloques.png' alt='QrCode' width='314px'> <br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe src="https://app.protobject.com/generate?simplelamp&es&static" height="324" width="300" title="Iframe Example"></iframe><br>"
 
   },
    
