@@ -31,49 +31,49 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;padding: 0px 6px 1px 6px;display: inline-block;'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
 
   },
   {
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Presiona <span style='display: inline-block; padding: 0 5px;background-color:#007bff; border: 4px solid #007bff;border-radius: 3px;color:white;'>Confirmar</span>."
+    "content": "Presiona <span class='confirmDeviceTutorial'>Confirmar</span>."
   },
   {
     "selector": "#tutorialButton",
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='display: inline-block; background-color: rgb(221 221 221);    border-left: 8px solid rgb(91, 165, 165);    border-radius: 0px;    color: black;    padding: 1px 16px 3px 16px;'>Dispositivos</span> nuevamente, selecciona <span style='display: inline-block; background-color: #E9EBEC; border: 2px solid #E9EBEC; border-radius: 1px; padding: 0 10px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla."
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Dispositivos</span> nuevamente, selecciona <span class='selectDeviceTutorial'>SimpleButton</span> para generar un botón on/off en la pantalla."
   },  
 {
     "selector": "#tutorialButton",
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span style='display: inline-block; padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span> con otro smartphone. Si no tienes otro smartphone puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;padding: 0px 6px 1px 6px;display: inline-block;'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con otro smartphone. Si no tienes otro smartphone puedes presionar en <span class='openInThisWindowTutorial'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
   },
   {
         "selector": "#tutorialButton",
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 128 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>Lógica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?basic-components/if&es&static' height='70' width='90'></iframe>"
+        "content": "Presiona <span style='border-left-color: rgb(221, 221, 221);' class='sideButtonsTutorial'>L&uacute;gica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&es&static' height='70' width='90'></iframe>"
       },
    {
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?when-enabled&es&static' height='110' width='300'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&es&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?encenderApagar&es&static' height='110' width='260'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&es&static' height='110' width='260'></iframe>"
  
   },
   {
@@ -81,7 +81,7 @@ PTJTutorial([
     "step": 12,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe style='border:0;' src='https://app.protobject.com/generate?simplelamp&es&static' height='152' width='315'></iframe><br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?simplelamp&es&static' height='152' width='315'></iframe><br>"
 
   },
    
@@ -90,7 +90,7 @@ PTJTutorial([
     "step": 13,
     "title": "",
 	"marked": true,
-    "content": "Presiona el botón <span style='background: #dd4b39;font-size: inherit;color: white;padding: 6px 16px 8px 17px;border-radius: 20px;font-family: sans-serif;'>&#9654;</span> para probar el prototipo."
+    "content": "Presiona el botón <span class='playButtonTutorial'></span> para probar el prototipo."
   }
   
  ])
