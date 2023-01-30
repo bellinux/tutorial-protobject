@@ -31,7 +31,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span style='display: inline-block; padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span>  con el smartphone o tablet que estás usando. Si no tienes un smartphone puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;padding: 0px 6px 1px 6px;display: inline-block;'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span style='display: inline-block; padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;padding: 0px 6px 1px 6px;display: inline-block;'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
 
   },
   {
