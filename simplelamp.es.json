@@ -45,7 +45,7 @@ PTJTutorial([
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Dispositivos</span> nuevamente, selecciona <span class='selectDeviceTutorial'>SimpleButton</span> para generar un botón on/off en la pantalla."
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.devices+"</span> nuevamente, selecciona <span class='selectDeviceTutorial'>SimpleButton</span> para generar un botón on/off en la pantalla."
   },  
 {
     "selector": "#tutorialButton",
