@@ -90,7 +90,7 @@ PTJTutorial([
     "step": 13,
     "title": "",
 	"marked": true,
-    "content": "Presiona el botón ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) para probar el prototipo."
+    "content": "Presiona el botón <span style="background:red;">&#9654;</span> para probar el prototipo."
   }
   
  ])
