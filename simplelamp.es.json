@@ -23,7 +23,7 @@ PTJTutorial([
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Selecciona <span style='background-color:#E9EBEC; border: 2px solid #E9EBEC;border-radius: 3px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla."
+    "content": "Selecciona <span style='background-color: #E9EBEC; border: 2px solid #E9EBEC; border-radius: 1px; padding: 0 10px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla."
   },
  
   {
@@ -31,7 +31,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span style='background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>🔳QR</span>  con el smartphone o tablet que estás usando. También puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
+    "content": "Escanea el código <span style='padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span>  con el smartphone o tablet que estás usando. También puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
 
   },
   {
