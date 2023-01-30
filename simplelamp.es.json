@@ -17,7 +17,7 @@ PTJTutorial([
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span class='addDeviceTutorial'>Agregar dispositivo</span>."
+    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span>."
   }, {
     "selector": "#tutorialButton",
     "step": 4,
@@ -31,7 +31,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> para abrir localmente el dispositivo."
 
   },
   {
@@ -52,7 +52,7 @@ PTJTutorial([
     "step": 8,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con otro smartphone. Si no tienes otro smartphone puedes presionar en <span class='openInThisWindowTutorial'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con otro smartphone. Si no tienes otro smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> para abrir localmente el dispositivo."
   },
   {
         "selector": "#tutorialButton",
