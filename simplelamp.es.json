@@ -66,14 +66,14 @@ PTJTutorial([
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?when-enabled&es&static' height='140' width='315'></iframe>"
+    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?when-enabled&es&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?encenderApagar&es&static' height='140' width='315'></iframe>"
+    "content": "Presiona <span style='display: inline-block;background-color: rgb(221 221 221);border-left: 8px solid rgb(91 165 165);border-radius: 0px;color: black;padding: 1px 16px 3px 16px;'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe style='border:0;' src='https://app.protobject.com/generate?encenderApagar&es&static' height='110' width='260'></iframe>"
  
   },
   {
