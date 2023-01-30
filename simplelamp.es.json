@@ -10,14 +10,14 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> en la barra lateral izquierda."
+    "content": "Presiona <span style='background-color: rgb(221 221 221);    border-left: 8px solid rgb(91, 165, 165);    border-radius: 0px;    color: black;    padding: 1px 16px 3px 16px;'>Dispositivos</span> en la barra lateral izquierda."
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
+    "content": "Presiona el botón <span style='padding: 1px 4px; background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
   }, {
     "selector": "#tutorialButton",
     "step": 4,
