@@ -10,20 +10,20 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color: rgb(221 221 221);    border-left: 8px solid rgb(91, 165, 165);    border-radius: 0px;    color: black;    padding: 1px 16px 3px 16px;'>Dispositivos</span> en la barra lateral izquierda."
+    "content": "Presiona <span style='display: inline-block; background-color: rgb(221 221 221);    border-left: 8px solid rgb(91, 165, 165);    border-radius: 0px;    color: black;    padding: 1px 16px 3px 16px;'>Dispositivos</span> en la barra lateral izquierda."
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='padding: 1px 4px; background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
+    "content": "Presiona el botón <span style='display: inline-block; padding: 1px 4px; background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
   }, {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Selecciona <span style='background-color: #E9EBEC; border: 2px solid #E9EBEC; border-radius: 1px; padding: 0 10px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla."
+    "content": "Selecciona <span style='display: inline-block; background-color: #E9EBEC; border: 2px solid #E9EBEC; border-radius: 1px; padding: 0 10px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla."
   },
  
   {
@@ -31,7 +31,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span style='padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span>  con el smartphone o tablet que estás usando. También puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
+    "content": "Escanea el código <span style='display: inline-block; padding: 0 8px; background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>▣ QR</span>  con el smartphone o tablet que estás usando. Si no tienes un smartphone puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;padding: 0px 6px 1px 6px;display: inline-block;'>Abrir en esta ventana</span> para abrir localmente el dispositivo."
 
   },
   {
