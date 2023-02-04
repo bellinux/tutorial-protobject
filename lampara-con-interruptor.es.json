@@ -31,7 +31,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> para abrir localmente el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  para abrir en el navegador el dispositivo."
 
   },
   {
@@ -59,21 +59,21 @@ PTJTutorial([
         "step": 9,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda,  y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
       },
    {
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
   {
