@@ -45,7 +45,7 @@ PTJTutorial([
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 0px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla.<br><br> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR. También, puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
+    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 0px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente para utilizar otro dispositivo además del anterior, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla.<br><br> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR. También, puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir en el navegador el dispositivo si no dispones de un smartphone o tablet."
   },
  
    
