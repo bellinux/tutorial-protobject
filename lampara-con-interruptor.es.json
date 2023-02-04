@@ -10,20 +10,20 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> en la barra lateral izquierda."
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.devices+"</span> en la barra lateral izquierda."
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span style='background-color:#478383; border: 2px solid #478383;border-radius: 5px;color:white;'>✙ Agregar dispositivo</span>."
+    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span>."
   }, {
     "selector": "#tutorialButton",
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Selecciona <span style='background-color:#E9EBEC; border: 2px solid #E9EBEC;border-radius: 3px;'><strong>Lamp</strong></span> para que se genere una lámpara simulada en la pantalla."
+    "content": "Selecciona <span class='selectDeviceTutorial'>Lamp</span> para que se genere una lámpara simulada en la pantalla."
   },
  
   {
@@ -31,61 +31,66 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span style='background-color:#E9EBEC; border: 1px solid #E9EBEC;border-radius: 3px;'>🔳QR</span>  con el smartphone o tablet que estás usando. También puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir localmente el dispositivo si no dispones de un smartphone o tablet."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> para abrir localmente el dispositivo."
 
   },
   {
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Presiona <span style='background-color:#007bff; border: 4px solid #007bff;border-radius: 3px;color:white;'>Confirmar</span>."
+    "content": "Presiona <span class='confirmDeviceTutorial'>Confirmar</span>."
   },
-   {
+  {
     "selector": "#tutorialButton",
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='background-color:rgb(91, 165, 165); border: 0px solid rgb(91, 165, 165);border-radius: 3px;color:white;'>Dispositivos</span> nuevamente para utilizar otro dispositivo además del anterior, selecciona <span style='background-color:#E9EBEC; border: 0px solid #E9EBEC;border-radius: 3px;'><strong>SimpleButton</strong></span> para generar un botón on/off en la pantalla.<br><br> Presiona en tu smartphone o tableta <span style='background-color:#008000; border: 2px solid #008000;border-radius: 8px;color:white;'><strong>🔳Scan</strong></span> y escanea el código QR. También, puedes presionar en <span style='background-color:#17a2b8; border: 1px solid #17a2b8;border-radius: 3px;color:white;'>Abrir en esta ventana</span> para abrir en el navegador el dispositivo si no dispones de un smartphone o tablet."
-  },
- 
-   
-   {
-        "selector": "#tutorialButton",
-        "step": 8,
-        "title": "",
-        "marked": true,
-        "content": "Presiona <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165) ;border-radius: 3px;color:white;'>Lógica</span> en la barra lateral izquierda,  <br> mueve el componente <span style='background-color:rgb(91, 128, 165); border: 2px solid rgb(91, 128, 165);border-radius: 3px;color:white;'>if</span>  al espacio de trabajo    <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/imagen.png' alt='QrCode' width='104px'>"
-      },
-   {
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.devices+"</span> nuevamente para utilizar otro dispositivo además del anterior, selecciona <span class='selectDeviceTutorial'>SimpleButton</span> para generar un botón on/off en la pantalla."
+  },  
+{
     "selector": "#tutorialButton",
-    "step": 9,
+    "step": 8,
     "title": "",
     "marked": true,
-    "content": "Mueve los siguientes componentes al espacio de trabajo:<br><br> El componente evento del botón <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>cuando</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/evento.png' alt='QrCode' width='315px'><br><br> El componente habilitado del botón <span style='background-color:#bddbdb; border: 2px solid #bddbdb;border-radius: 3px;color:black;'>habilitado</span><br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/boton.png' alt='QrCode' width='259px'>"
-   },
-	{
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con otro smartphone. Si no tienes otro smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> para abrir en el navegador el dispositivo."
+  },
+  {
+        "selector": "#tutorialButton",
+        "step": 9,
+        "title": "",
+        "marked": true,
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda,  y mueve el componente siguiente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
+      },
+   {
     "selector": "#tutorialButton",
     "step": 10,
     "title": "",
     "marked": true,
-    "content": "Ahora mueve los siguientes componentes de la lámpara al espacio de trabajo:<br><br> El componente encender de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>encender</strong></span> <br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/lampara.png' alt= 'QrCode'  width='269px'><br><br> Y el componente apagar de la lámpara <span style='background-color:rgb(91, 165, 165); border: 2px solid rgb(91, 165, 165);border-radius: 3px;color:white;'><strong>apagar</strong></span><br><br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/apagar.png' alt='QrCode' width='168px'>"
-
-  },
-  {
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+   },
+	{
     "selector": "#tutorialButton",
     "step": 11,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación <br> <br> <img src='https://raw.githubusercontent.com/bellinux/tutorial-protobject/main/images/lampara-con-interruptor.es/bloques.png' alt='QrCode' width='314px'> <br>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> en la barra lateral izquierda y mueve estos dos siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
+ 
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 12,
+    "title": "",
+    "marked": true,
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?simplelamp&"+lang+"&static' height='152' width='315'></iframe><br>"
 
   },
    
   {
     "selector": "#tutorialButton",
-    "step": 12,
+    "step": 13,
     "title": "",
 	"marked": true,
-    "content": "Presiona el botón ![play](https://github.com/bellinux/tutorial-protobject/raw/main/images/play.png) para probar el prototipo."
+    "content": "Presiona el botón <span class='playButtonTutorial'></span> para probar el prototipo."
   }
   
  ])
