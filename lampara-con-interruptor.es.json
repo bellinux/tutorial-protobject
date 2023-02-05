@@ -25,21 +25,21 @@ PTJTutorial([
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda,  y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
       },
    {
     "selector": "#tutorialButton",
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+    "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span>, nuevamente, en la barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
   {
