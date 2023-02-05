@@ -2,7 +2,7 @@ PTJTutorial([
   {
     "selector": "#tutorialButton",
     "step": 1,
-    "title": "Lámpara con interruptor",
+    "title": "Alarma al toque",
     "content": "En este tutorial aprenderás a simular una alarma que se inicie y se detenga con un botón."
   },
  {
@@ -25,7 +25,7 @@ PTJTutorial([
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate? condicional-alarma-al-toque&"+lang+"&static' height='70' width='90'></iframe>" 
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?condicional-alarma-al-toque&"+lang+"&static' height='70' width='90'></iframe>" 
       },
    {
     "selector": "#tutorialButton",
