@@ -39,7 +39,7 @@ PTJTutorial([
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>AudioPlayer2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?reproducir-sonido&"+lang+"&static' height='110' width='260'></iframe> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?detener-sonido&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>AudioPlayer2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-sonido-alarma-al-toque&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
   {
@@ -47,7 +47,7 @@ PTJTutorial([
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?alarma-al-toque-bloques&"+lang+"&static' height='152' width='315'></iframe><br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-alarma-al-toque&"+lang+"&static' height='152' width='315'></iframe><br>"
 
   },
    
