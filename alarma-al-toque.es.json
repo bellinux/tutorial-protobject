@@ -3,21 +3,21 @@ PTJTutorial([
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Lámpara con interruptor",
-    "content": "En este tutorial aprenderás a simular una lámpara y un botón para encenderla y apagarla."
+    "content": "En este tutorial aprenderás a simular una alarma que se inicie y se detenga con un botón."
   },
  {
     "selector": "#tutorialButton",
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>Lamp</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es'>aquí</a>"
+    "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SimpleButton</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es'>aquí</a>"
   },
   {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Abre el dispositivo <span class='selectDeviceTutorial'>SimpleButton</span> en otro smartphone."
+    "content": "Abre el dispositivo <span class='selectDeviceTutorial'>AudioPlayer</span> en otro smartphone."
   },  
 
   {
@@ -25,21 +25,21 @@ PTJTutorial([
         "step": 4,
         "title": "",
         "marked": true,
-        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe>"
+        "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate? condicional-alarma-al-toque&"+lang+"&static' height='70' width='90'></iframe>" 
       },
    {
     "selector": "#tutorialButton",
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+    "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?evento-boton&"+lang+"&static' height='110' width='300'></iframe> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?boton-habilitado&"+lang+"&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>AudioPlayer2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?reproducir-sonido&"+lang+"&static' height='110' width='260'></iframe> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?detener-sonido&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
   {
@@ -47,7 +47,7 @@ PTJTutorial([
     "step": 7,
     "title": "",
     "marked": true,
-    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?simplelamp&"+lang+"&static' height='152' width='315'></iframe><br>"
+    "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?alarma-al-toque-bloques&"+lang+"&static' height='152' width='315'></iframe><br>"
 
   },
    
