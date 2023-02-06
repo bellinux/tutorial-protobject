@@ -10,7 +10,7 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SimpleButton</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es'>aquí</a>"
+    "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SimpleButton</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href="https://app.protobject.com/main#encender-lampara.es" target="_blank">aquí</a>"
   },
   {
     "selector": "#tutorialButton",
