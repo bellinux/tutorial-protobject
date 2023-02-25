@@ -1,0 +1,63 @@
+PTJTutorial([
+    {
+      "selector": "#tutorialButton",
+      "step": 1,
+      "title": "Detector de objetos",
+      "content": "En este tutorial aprenderás a detectar objetos con la cámara de tu smartphone."
+    },
+   {
+      "selector": "#tutorialButton",
+      "step": 2,
+      "title": "",
+      "marked": true,
+      "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SmartCamera</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>aquí</a>"
+    },
+    {
+      "selector": "#tutorialButton",
+      "step": 3,
+      "title": "",
+      "marked": true,
+      "content": "Abre el dispositivo <span class='selectDeviceTutorial'>Vibrator</span> en otro smartphone."
+    },  
+  
+    {
+          "selector": "#tutorialButton",
+          "step": 4,
+          "title": "",
+          "marked": true,
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?condicional-alarma-al-toque&"+lang+"&static' height='85' width='90'></iframe>" 
+        },
+     {
+      "selector": "#tutorialButton",
+      "step": 5,
+      "title": "",
+      "marked": true,
+      "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartCamera1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?evento-boton&"+lang+"&static' height='110' width='300'></iframe> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?boton-habilitado&"+lang+"&static' height='110' width='300'></iframe>"
+     },
+      {
+      "selector": "#tutorialButton",
+      "step": 6,
+      "title": "",
+      "marked": true,
+      "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>AudioPlayer2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?componentes-dispositivos/SmartCamera/evento&"+lang+"&static' height='110' width='523'></iframe>"
+   
+    },
+    {
+      "selector": "#tutorialButton",
+      "step": 7,
+      "title": "",
+      "marked": true,
+      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-alarma-al-toque&"+lang+"&static' height='152' width='523'></iframe><br>"
+  
+    },
+     
+    {
+      "selector": "#tutorialButton",
+      "step": 8,
+      "title": "",
+      "marked": true,
+      "content": "Presiona el botón <span class='playButtonTutorial'></span> para probar el prototipo."
+    }
+    
+   ])
+  
