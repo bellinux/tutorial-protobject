@@ -32,14 +32,14 @@ PTJTutorial([
             "step": 5,
             "title": "",
             "marked": true,
-            "content": "Luego, presiona nuevamente <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/y,o&"+lang+"&static' height='70' width='90'></iframe><br> y dos veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/comparacion&"+lang+"&static' height='85' width='90'></iframe>" 
+            "content": "Luego, presiona nuevamente <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/y,o&"+lang+"&static' height='70' width='130'></iframe><br> y dos veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/comparacion&"+lang+"&static' height='85' width='130'></iframe>" 
           },
           {
             "selector": "#tutorialButton",
             "step": 6,
             "title": "",
             "marked": true,
-            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Texto</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Texto/texto&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> nuevamente en la barra lateral izquierda y mueve el componente <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/numero&"+lang+"&static' height='70' width='90'></iframe> al espacio de trabajo." 
+            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Texto</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Texto/texto&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> nuevamente en la barra lateral izquierda y mueve el componente <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/numero&"+lang+"&static' height='70' width='70'></iframe><br> al espacio de trabajo." 
           },
           {
             "selector": "#tutorialButton",
@@ -54,14 +54,14 @@ PTJTutorial([
       "step": 8,
       "title": "",
       "marked": true,
-      "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartCamera1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?evento-smart-camera&"+lang+"&static' height='80' width='300'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?imagen-smart-camera&"+lang+"&static' height='80' width='300'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?confianza-smart-camera&"+lang+"&static' height='80' width='300'></iframe>"
+      "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartCamera1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?evento-smart-camera&"+lang+"&static' height='80' width='300'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?imagen-smart-camera&"+lang+"&static' height='80' width='290'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?confianza-smart-camera&"+lang+"&static' height='80' width='290'></iframe>"
      },
       {
       "selector": "#tutorialButton",
       "step": 9,
       "title": "",
       "marked": true,
-      "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Vibrator2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-vibrator&"+lang+"&static' height='80' width='300'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-vibrator&"+lang+"&static' height='80' width='300'></iframe>"
+      "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Vibrator2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-vibrator&"+lang+"&static' height='80' width='260'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-vibrator&"+lang+"&static' height='80' width='260'></iframe>"
    
     },
     {
@@ -69,7 +69,7 @@ PTJTutorial([
       "step": 10,
       "title": "",
       "marked": true,
-      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-detector-de-objetos2&"+lang+"&static' height='152' width='523'></iframe><br>"
+      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-detector-de-objetos2&"+lang+"&static' height='152' width='700'></iframe><br>"
   
     },
      
