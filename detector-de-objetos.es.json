@@ -32,7 +32,7 @@ PTJTutorial([
             "step": 5,
             "title": "",
             "marked": true,
-            "content": "Luego, presiona nuevamente <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/y,o&"+lang+"&static' height='70' width='90'></iframe><br> y dos veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/comparacion&"+lang+"&static' height='85' width='90'></iframe>" 
+            "content": "Luego, presiona nuevamente <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/y,o&"+lang+"&static' height='70' width='90'></iframe><br> y dos veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/comparacion&"+lang+"&static' height='85' width='90'></iframe>" 
           },
           {
             "selector": "#tutorialButton",
@@ -46,7 +46,7 @@ PTJTutorial([
             "step": 7,
             "title": "",
             "marked": true,
-            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-detector-de-objetos1&"+lang+"&static' height='152' width='523'></iframe><br>"
+            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-detector-de-objetos&"+lang+"&static' height='152' width='523'></iframe><br>"
         
           },
      {
