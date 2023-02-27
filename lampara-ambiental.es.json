@@ -2,22 +2,22 @@ PTJTutorial([
     {
       "selector": "#tutorialButton",
       "step": 1,
-      "title": "Metrónomo",
-      "content": "En este tutorial aprenderás a hacer un metrónomo con tu smartphone."
+      "title": "Lámpara ambiental",
+      "content": "En este tutorial aprenderás a hacer una lámpara con tu smartphone que cambia su color en base a la intensidad de luz ambiental captada por otro smartphone."
     },
    {
       "selector": "#tutorialButton",
       "step": 2,
       "title": "",
       "marked": true,
-      "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>PlayDrum</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>aquí</a>"
+      "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>Lamp</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>aquí</a>"
     },
     {
       "selector": "#tutorialButton",
       "step": 3,
       "title": "",
       "marked": true,
-      "content": "Abre el dispositivo <span class='selectDeviceTutorial'>SimpleKnob</span> en otro smartphone."
+      "content": "Abre el dispositivo <span class='selectDeviceTutorial'>LightIntensity</span> en otro smartphone."
     },  
   
     {
@@ -25,7 +25,7 @@ PTJTutorial([
           "step": 4,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Secuencias</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Secuencias/bucle-principal&"+lang+"&static' height='70' width='90'>" 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y crea una variable llamada intensidad y otra variable llamada color, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?variables-lampara-ambiental&"+lang+"&static' height='70' width='90'>" 
         },
         {
             "selector": "#tutorialButton",
