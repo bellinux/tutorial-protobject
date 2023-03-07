@@ -46,7 +46,7 @@ PTJTutorial([
           "step": 7,
           "title": "",
           "marked": true,
-          "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='85' width='130'></iframe>" 
+          "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='85' width='130'></iframe><br>y cambia la suma por una resta." 
         },
         {
           "selector": "#tutorialButton",
@@ -67,12 +67,12 @@ PTJTutorial([
             "step": 10,
             "title": "",
             "marked": true,
-            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-metronomo&"+lang+"&static' height='152' width='523'></iframe><br>"
+            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-lampara-ambiental&"+lang+"&static' height='152' width='523'></iframe><br>"
         
           },
     {
       "selector": "#tutorialButton",
-      "step": 10,
+      "step": 11,
       "title": "",
       "marked": true,
       "content": "Presiona el botón <span class='playButtonTutorial'></span> para probar el prototipo."
