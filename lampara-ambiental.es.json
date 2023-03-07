@@ -32,7 +32,7 @@ PTJTutorial([
           "step": 5,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y crea una variable llamada intensidad y otra variable llamada color, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?variables-lampara-ambiental&"+lang+"&static' height='70' width='200'>" 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y crea una variable llamada intensidad y otra variable llamada color, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?variables-lampara-ambiental&"+lang+"&static' height='110' width='200'>" 
         },
         {
           "selector": "#tutorialButton",
@@ -41,30 +41,30 @@ PTJTutorial([
           "marked": true,
           "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Color</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Color/colorear&"+lang+"&static' height='120' width='100'>" 
         },
-        // {
-        //   "selector": "#tutorialButton",
-        //   "step": 7,
-        //   "title": "",
-        //   "marked": true,
-        //   "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='200' width='130'></iframe> y cambia la suma por una resta." 
-        // },
         {
           "selector": "#tutorialButton",
           "step": 7,
+          "title": "",
+          "marked": true,
+          "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='100' width='100'></iframe> y cambia la suma por una resta." 
+        },
+        {
+          "selector": "#tutorialButton",
+          "step": 8,
           "title": "",
           "marked": true,
           "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?color-lampara-ambiental&"+lang+"&static' height='70' width='200'><br>y tres veces<br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?color-lampara-ambiental&"+lang+"&static' height='150' width='200'>" 
         },
         {
           "selector": "#tutorialButton",
-          "step": 8,
+          "step": 9,
           "title": "",
           "marked": true, 
           "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-Lamp&"+lang+"&static' height='80' width='300'></iframe>"
          },
           {
             "selector": "#tutorialButton",
-            "step": 9,
+            "step": 10,
             "title": "",
             "marked": true,
             "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-lampara-ambiental&"+lang+"&static' height='152' width='523'></iframe><br>"
@@ -72,7 +72,7 @@ PTJTutorial([
           },
     {
       "selector": "#tutorialButton",
-      "step": 10,
+      "step": 11,
       "title": "",
       "marked": true,
       "content": "Presiona el botón <span class='playButtonTutorial'></span> para probar el prototipo."
