@@ -3,21 +3,21 @@ PTJTutorial([
       "selector": "#tutorialButton",
       "step": 1,
       "title": "Detector de objetos",
-      "content": "En este tutorial aprenderás a detectar objetos con la cámara de tu smartphone."
+      "content": "En este tutorial aprenderás a generar un indicador de caída con tu smartphone."
     },
    {
       "selector": "#tutorialButton",
       "step": 2,
       "title": "",
       "marked": true,
-      "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SmartCamera</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>aquí</a>"
+      "content": "Abrir el dispositivo <span class='selectDeviceTutorial'>SmartphoneOrientation</span>. Si no sabes cómo abrir un dispositivo, puedes abrir el siguiente link en una nueva pestaña, el cual te guiará al primer tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>aquí</a>"
     },
     {
       "selector": "#tutorialButton",
       "step": 3,
       "title": "",
       "marked": true,
-      "content": "Abre el dispositivo <span class='selectDeviceTutorial'>Vibrator</span> en otro smartphone."
+      "content": "Abre el dispositivo <span class='selectDeviceTutorial'>Lamp</span> en otro smartphone."
     },  
   
     {
