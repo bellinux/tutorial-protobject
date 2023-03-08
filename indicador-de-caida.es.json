@@ -2,7 +2,7 @@ PTJTutorial([
     {
       "selector": "#tutorialButton",
       "step": 1,
-      "title": "Detector de objetos",
+      "title": "Indicador de caída",
       "content": "En este tutorial aprenderás a generar un indicador de caída con tu smartphone."
     },
    {
