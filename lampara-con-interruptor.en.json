@@ -55,9 +55,8 @@ PTJTutorial([
     "selector": "#tutorialButton",
     "step": 8,
     "title": "",
-	"marked": true,
-    "content": "Press the button  <span class='playButtonTutorial'></span> to test the prototype.
-    "
+	  "marked": true,
+    "content": "Press the button  <span class='playButtonTutorial'></span> to test the prototype."
   }
   
  ])
