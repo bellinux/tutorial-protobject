@@ -40,14 +40,14 @@ PTJTutorial([
           "step": 6,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?establecer-color-lampara-ambiental&"+lang+"&static' height='70' width='200'></iframe><br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?establecer-intensidad-lampara-ambiental&"+lang+"&static' height='150' width='200'></iframe>" 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?establecer-color-lampara-ambiental&"+lang+"&static' height='70' width='200'></iframe><br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?establecer-intensidad-lampara-ambiental&"+lang+"&static' height='70' width='210'></iframe>" 
         },
         {
           "selector": "#tutorialButton",
           "step": 7,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Color</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Color/colorear&"+lang+"&static' height='120' width='100'></iframe>" 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Color</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Color/colorear&"+lang+"&static' height='120' width='200'></iframe>" 
         },
         
         {
@@ -55,7 +55,7 @@ PTJTutorial([
           "step": 8,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?color-lampara-ambiental&"+lang+"&static' height='70' width='200'></iframe><br><br> y tres veces<iframe class='iFrameTutorial' src='https://app.protobject.com/generate?intensidad-lampara-ambiental&"+lang+"&static' height='150' width='200'></iframe>" 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Variables</span> en la barra lateral izquierda y luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?color-lampara-ambiental&"+lang+"&static' height='70' width='100'></iframe><br><br><iframe class='iFrameTutorial' src='https://app.protobject.com/generate?intensidad-lampara-ambiental&"+lang+"&static' height='150' width='110'></iframe>" 
         },
         
         {
@@ -70,7 +70,7 @@ PTJTutorial([
             "step": 10,
             "title": "",
             "marked": true,
-            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-lampara-ambiental&"+lang+"&static' height='152' width='523'></iframe><br>"
+            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-lampara-ambiental&"+lang+"&static' height='200' width='500'></iframe><br>"
         
           },
     {
