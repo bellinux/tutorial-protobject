@@ -1,0 +1,61 @@
+PTJTutorial([
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Turn On Lamp",
+    "content": "In this tutorial you will learn how to simulate a lamp and turn it on."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+    "marked": true,
+    "content": "Press  <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.devices+"</span> in the left sidebar."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Press the button <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span>."
+  }, {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+    "marked": true,
+    "content": "Select  <span class='selectDeviceTutorial'>Lamp</span> to generate a simulated lamp on the screen."
+  },
+ 
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "marked": true,
+    "content": "Scan the <span class='qrCodeTutorial'>QR</span>  code with your smartphone. If you do not have a smartphone you can click on <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  in this window to open the device in the browser."
+
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "content": "Press  <span class='confirmDeviceTutorial'Confirm</span>."
+  },
+  {
+      "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Press  <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> in the left sidebar and move the next component to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='110' width='260'></iframe>"
+ 
+  },
+  
+   
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+	"marked": true,
+    "content": "Press the button  <span class='playButtonTutorial'></span> to test the prototype."
+  }
+  
+ ])
