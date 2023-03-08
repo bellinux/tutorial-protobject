@@ -63,7 +63,7 @@ PTJTutorial([
           "step": 9,
           "title": "",
           "marked": true, 
-          "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-Lamp&"+lang+"&static' height='80' width='300'></iframe>"
+          "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='80' width='300'></iframe>"
          },
           {
             "selector": "#tutorialButton",
