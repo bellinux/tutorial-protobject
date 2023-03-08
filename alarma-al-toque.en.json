@@ -1,0 +1,62 @@
+PTJTutorial([
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Alarm on touch",
+    "content": "In this tutorial you will learn how to simulate an alarm that starts and stops with a button."
+  },
+ {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+    "marked": true,
+    "content": "Open the  <span class='selectDeviceTutorial'>SimpleButton</span> device. If you do not know how to open a device, you can open the following link in a new tab, which will take you to the first tutorial <a href='https://app.protobject.com/main#encender-lampara.en' target='_blank'>here</a>"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Open the <span class='selectDeviceTutorial'>AudioPlayer</span>  device on another smartphone."
+  },  
+
+  {
+        "selector": "#tutorialButton",
+        "step": 4,
+        "title": "",
+        "marked": true,
+        "content": "Press  <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Logic</span>  in the left sidebar and move the next component to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> then press the nut and add 'else' to the component<br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?condicional-alarma-al-toque&"+lang+"&static' height='85' width='90'></iframe>" 
+      },
+   {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "marked": true,
+    "content": "Then, press<span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span>  in the same left bar and move the following components to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?evento-boton&"+lang+"&static' height='110' width='300'></iframe> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?boton-habilitado&"+lang+"&static' height='110' width='300'></iframe>"
+   },
+	{
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "marked": true,
+    "content": "Next, click <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>AudioPlayer2</span>  and again in the left bar, then move the following components to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-sonido-alarma-al-toque&"+lang+"&static' height='110' width='523'></iframe>"
+ 
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 7,
+    "title": "",
+    "marked": true,
+    "content": "Put the above components as in the image below: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-alarma-al-toque&"+lang+"&static' height='152' width='523'></iframe><br>"
+
+  },
+   
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+	"marked": true,
+    "content": "Press the button <span class='playButtonTutorial'></span> to test the prototype."
+  }
+  
+ ])
