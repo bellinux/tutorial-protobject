@@ -38,7 +38,7 @@ PTJTutorial([
     "selector": "#tutorialButton",
     "step": 6,
     "title": "",
-    "content": "Press  <span class='confirmDeviceTutorial'Confirm</span>."
+    "content": "Press  <span class='confirmDeviceTutorial'>Confirm</span>."
   },
   {
       "selector": "#tutorialButton",
