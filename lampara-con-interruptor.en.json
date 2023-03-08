@@ -32,7 +32,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Then, press <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> e in the same left bar and move the following components to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+    "content": "Then, press <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SimpleButton1</span> in the same left bar and move the following components to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
    },
 	{
     "selector": "#tutorialButton",
