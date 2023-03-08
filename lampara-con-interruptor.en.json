@@ -10,7 +10,7 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Open the  <span class='selectDeviceTutorial'>SimpleButton</span> device. If you do not know how to open a device, you can open the following link in a new tab, which will take you to the first tutorial <a href='https://app.protobject.com/main#encender-lampara.en' target='_blank'>here</a>"
+    "content": "Open the  <span class='selectDeviceTutorial'>Lamp</span> device. If you do not know how to open a device, you can open the following link in a new tab, which will take you to the first tutorial <a href='https://app.protobject.com/main#encender-lampara.en' target='_blank'>here</a>"
   },
   {
     "selector": "#tutorialButton",
