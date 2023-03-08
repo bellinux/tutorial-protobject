@@ -24,35 +24,35 @@ PTJTutorial([
         "step": 4,
         "title": "",
         "marked": true, 
-        "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartphoneOrientation1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?orientacion-SmartphoneOrientation&"+lang+"&static' height='80' width='300'></iframe>"
+        "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartphoneOrientation1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?orientacion-SmartphoneOrientation&"+lang+"&static' height='80' width='360'></iframe>"
        },
     {
           "selector": "#tutorialButton",
           "step": 5,
           "title": "",
           "marked": true,
-          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='70' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?condicional-alarma-al-toque&"+lang+"&static' height='85' width='90'></iframe><br>y mueve el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/comparacion&"+lang+"&static' height='85' width='90'></iframe> al espacio de trabajo." 
+          "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>L&oacute;gica</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/if&"+lang+"&static' height='80' width='90'></iframe><br> luego presiona la tuerca y agrega 'sino' al componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?condicional-alarma-al-toque&"+lang+"&static' height='100' width='90'></iframe><br>y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Logica/comparacion&"+lang+"&static' height='85' width='130'></iframe> " 
         },
         {
             "selector": "#tutorialButton",
             "step": 6,
             "title": "",
             "marked": true,
-            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Secuencias</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Secuencias/bucle-principal&"+lang+"&static' height='70' width='90'></iframe>" 
+            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Secuencias</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Secuencias/bucle-principal&"+lang+"&static' height='80' width='130'></iframe>" 
           },
           {
             "selector": "#tutorialButton",
             "step": 7,
             "title": "",
             "marked": true,
-            "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='100' width='150'></iframe><br>mueve tres veces también el componente<iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/raiz-cuadrada&"+lang+"&static' height='100' width='150'></iframe><br> y mueve el componente <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/numero&"+lang+"&static' height='70' width='70'></iframe><br> al espacio de trabajo." 
+            "content": "Luego, presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Matemáticas</span> en la barra lateral izquierda y mueve tres veces el componente <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='100' width='150'></iframe><br>mueve tres veces también el componente<br><iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/raiz-cuadrada&"+lang+"&static' height='100' width='180'></iframe><br> y mueve el componente <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/numero&"+lang+"&static' height='70' width='70'></iframe><br> al espacio de trabajo." 
           },
           {
             "selector": "#tutorialButton",
             "step": 8,
             "title": "",
             "marked": true,
-            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-indicador-de-caida1&"+lang+"&static' height='152' width='700'></iframe><br>"
+            "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-indicador-de-caida1&"+lang+"&static' height='152' width='900'></iframe><br>"
         
           },
           {
@@ -60,14 +60,14 @@ PTJTutorial([
             "step": 9,
             "title": "",
             "marked": true, 
-            "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='80' width='300'></iframe><br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-lampara&"+lang+"&static' height='80' width='300'></iframe>"
+            "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la misma barra izquierda y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='80' width='300'></iframe><br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-lampara&"+lang+"&static' height='80' width='180'></iframe>"
            },
            {
             "selector": "#tutorialButton",
             "step": 10,
             "title": "",
             "marked": true,
-            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Temporización</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Temporizacion/retraso&"+lang+"&static' height='70' width='90'></iframe>" 
+            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Temporización</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Temporizacion/retraso&"+lang+"&static' height='70' width='220'></iframe>" 
           },
         
     {
@@ -75,7 +75,7 @@ PTJTutorial([
       "step": 11,
       "title": "",
       "marked": true,
-      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-indicador-de-caida&"+lang+"&static' height='152' width='700'></iframe><br>"
+      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-indicador-de-caida&"+lang+"&static' height='152' width='900'></iframe><br>"
   
     },
      
