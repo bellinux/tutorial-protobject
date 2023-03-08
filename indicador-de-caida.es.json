@@ -67,7 +67,7 @@ PTJTutorial([
             "step": 10,
             "title": "",
             "marked": true,
-            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Temporización</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Temporizacion/milisegundos&"+lang+"&static' height='70' width='90'></iframe>" 
+            "content": "Presiona <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Temporización</span> en la barra lateral izquierda y mueve el siguiente componente  al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Temporizacion/retraso&"+lang+"&static' height='70' width='90'></iframe>" 
           },
         
     {
