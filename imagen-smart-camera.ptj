@@ -1,1 +1,1 @@
-oPTJ("[{\"name\":\"SmartCamera18\",\"type\":\"SmartCamera\"}]\n<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"protobject_SmartCamera18_get\" id=\";YCI$I)BtI+u{|;$B/Q_\" x=\"113\" y=\"88\"><field name=\"property\">nombreImagen</field></block></xml>")
+oPTJ("[{\"name\":\"SmartCamera1\",\"type\":\"SmartCamera\"}]\n<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"protobject_SmartCamera1_get\" id=\")fnG]xTP!;Y,en#B@3Kt\" x=\"238\" y=\"138\"><field name=\"property\">nombreImagen</field></block></xml>")
