@@ -69,7 +69,7 @@ PTJTutorial([
       "step": 10,
       "title": "",
       "marked": true,
-      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-detector-de-objetos2&"+lang+"&static' height='152' width='700'></iframe><br>"
+      "content": "Los componentes anteriores ponlos como en la imagen que se ve a continuación: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-indicador-de-caida&"+lang+"&static' height='152' width='700'></iframe><br>"
   
     },
      
