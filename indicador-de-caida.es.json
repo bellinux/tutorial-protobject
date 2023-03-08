@@ -19,7 +19,13 @@ PTJTutorial([
       "marked": true,
       "content": "Abre el dispositivo <span class='selectDeviceTutorial'>Lamp</span> en otro smartphone."
     },  
-  
+    {
+        "selector": "#tutorialButton",
+        "step": 4,
+        "title": "",
+        "marked": true, 
+        "content": "Luego, aprieta <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>SmartphoneOrientation1</span> en la misma barra izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?orientacion-SmartphoneOrientation&"+lang+"&static' height='80' width='300'></iframe>"
+       },
     {
           "selector": "#tutorialButton",
           "step": 4,
@@ -75,7 +81,7 @@ PTJTutorial([
       "step": 11,
       "title": "",
       "marked": true,
-      "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Vibrator2</span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-vibrator&"+lang+"&static' height='80' width='260'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-vibrator&"+lang+"&static' height='80' width='260'></iframe>"
+      "content": "A continuación, oprime <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'></span> y nuevamente en la barra izquierda, luego mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-vibrator&"+lang+"&static' height='80' width='260'></iframe><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?apagar-vibrator&"+lang+"&static' height='80' width='260'></iframe>"
    
     },
     {
