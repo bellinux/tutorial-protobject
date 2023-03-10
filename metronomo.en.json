@@ -1,0 +1,71 @@
+PTJTutorial([
+    {
+      "selector": "#tutorialButton",
+      "step": 1,
+      "title": "Metronome",
+      "content": "In this tutorial you will learn how to make a metronome with your smartphone."
+    },
+   {
+      "selector": "#tutorialButton",
+      "step": 2,
+      "title": "",
+      "marked": true,
+      "content": "Open the <span class='selectDeviceTutorial'>PlayDrum</span>. device. If you do not know how to open a device, you can open the following link in a new tab, which will take you to the first tutorial <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>here</a>"
+    },
+    {
+      "selector": "#tutorialButton",
+      "step": 3,
+      "title": "",
+      "marked": true,
+      "content": "Open the <span class='selectDeviceTutorial'>SimpleKnob</span> device on another smartphone."
+    },  
+  
+    {
+          "selector": "#tutorialButton",
+          "step": 4,
+          "title": "",
+          "marked": true,
+          "content": "Press  <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Sequences</span> in the left sidebar and move the next component to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Secuencias/bucle-principal&"+lang+"&static' height='70' width='90'>" 
+        },
+        {
+            "selector": "#tutorialButton",
+            "step": 5,
+            "title": "",
+            "marked": true,
+            "content": "Then, press <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>PlayDrum1</span>  in the same left bar and move the next component to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?tocar-nota-play-drum&"+lang+"&static' height='80' width='300'></iframe>"
+           },
+        {
+            "selector": "#tutorialButton",
+            "step": 6,
+            "title": "",
+            "marked": true,
+            "content": "Then, press <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Timing</span> in the left sidebar and move the next component to the workspace: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Temporizacion/milisegundos&"+lang+"&static' height='70' width='130'></iframe>" 
+          },
+          {
+            "selector": "#tutorialButton",
+            "step": 7,
+            "title": "",
+            "marked": true,
+            "content": "Then, click on <span style='border-left-color: rgb(91 128 165);' class='sideButtonsTutorial'>Mathematics</span> in the left sidebar and move the component twice <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?basic-components/Matematicas/suma&"+lang+"&static' height='85' width='130'></iframe>" 
+          },
+          {
+            "selector": "#tutorialButton",
+            "step": 8,
+            "title": "",
+            "marked": true,
+            "content": "Put the above components as in the image below: <br> <br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?bloques-metronomo&"+lang+"&static' height='152' width='523'></iframe><br>"
+        
+          },
+     
+
+     
+    {
+      "selector": "#tutorialButton",
+      "step": 9,
+      "title": "",
+      "marked": true,
+      "content": "Press the  <span class='playButtonTutorial'></span> to test the prototype."
+    }
+    
+   ])
+  
