@@ -32,7 +32,7 @@ PTJTutorial([
     "step": 5,
     "title": "",
     "marked": true,
-    "content": "Luego, presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"2</span> y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "Luego, presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encenderApagar&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
    {
@@ -40,7 +40,7 @@ PTJTutorial([
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "A continuación, presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.SimpleButton+"1</span> y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
+    "content": "A continuación, presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.SimpleButton+"2</span> y mueve los siguientes componentes al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?when-enabled&"+lang+"&static' height='110' width='300'></iframe>"
    },
   {
     "selector": "#tutorialButton",
