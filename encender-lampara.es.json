@@ -3,49 +3,42 @@ PTJTutorial([
     "selector": "#tutorialButton",
     "step": 1,
     "title": "Encender Lámpara",
-    "content": "En este tutorial aprenderás a simular una lámpara y encenderla."
+    "content": "En este tutorial aprenderás a encender una lámpara."
   },
   {
     "selector": "#tutorialButton",
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.toolbox.devices+"</span> en la barra lateral izquierda."
-  },
-  {
+    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span> en la barra lateral izquierda.."
+  }, {
     "selector": "#tutorialButton",
     "step": 3,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span>."
-  }, {
-    "selector": "#tutorialButton",
-    "step": 4,
-    "title": "",
-    "marked": true,
-    "content": "Selecciona <span class='selectDeviceTutorial'>Lamp</span> para que se genere una lámpara simulada en la pantalla."
+    "content": "Selecciona <span class='selectDeviceTutorial'>"+locutions.components.easyName.RGBLamp+"</span> para generar una lámpara en la pantalla."
   },
  
   {
     "selector": "#tutorialButton",
-    "step": 5,
+    "step": 4,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span>  con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  para abrir en el navegador el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  para abrir la lámpara en el navegador el dispositivo."
 
   },
   {
     "selector": "#tutorialButton",
-    "step": 6,
+    "step": 5,
     "title": "",
     "content": "Presiona <span class='confirmDeviceTutorial'>Confirmar</span>."
   },
   {
       "selector": "#tutorialButton",
-    "step": 7,
+    "step": 6,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>Lamp1</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='110' width='260'></iframe>"
  
   },
   
