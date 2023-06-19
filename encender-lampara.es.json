@@ -10,7 +10,7 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span> en la barra lateral izquierda.."
+    "content": "Presiona el botón <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span> en la barra lateral izquierda."
   }, {
     "selector": "#tutorialButton",
     "step": 3,
@@ -38,7 +38,7 @@ PTJTutorial([
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='110' width='260'></iframe>"
+    "content": "Presiona <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> en la barra lateral izquierda y mueve el siguiente componente al espacio de trabajo: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='80' width='260'></iframe>"
  
   },
   
