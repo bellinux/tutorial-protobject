@@ -10,7 +10,7 @@ PTJTutorial([
     "step": 2,
     "title": "",
     "marked": true,
-    "content": "Agrega el dispositivo <span class='selectDeviceTutorial'>"+locutions.components.easyName.RGBLamp+"</span>. ¿No sabes cómo hacer? Vuelve al <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>primer tutorial</a>."
+    "content": "Agrega el dispositivo <span class='selectDeviceTutorial'>"+locutions.components.easyName.RGBLamp+"</span>. ¿No sabes cómo hacerlo? Vuelve al <a href='https://app.protobject.com/main#encender-lampara.es' target='_blank'>primer tutorial</a>."
   },
   {
     "selector": "#tutorialButton",

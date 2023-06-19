@@ -24,7 +24,7 @@ PTJTutorial([
     "step": 4,
     "title": "",
     "marked": true,
-    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  para abrir la lámpara en el navegador el dispositivo."
+    "content": "Escanea el código <span class='qrCodeTutorial'>QR</span> con tu smartphone. Si no tienes un smartphone puedes presionar en <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span>  para abrir la lámpara en el navegador del dispositivo."
 
   },
   {
