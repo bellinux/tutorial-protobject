@@ -1,0 +1,49 @@
+PTJTutorial([
+  {
+    "selector": "#tutorialButton",
+    "step": 1,
+    "title": "Accendere la Lampada",
+    "content": "In questo tutorial imparerai ad accendere una lampada."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 2,
+    "title": "",
+    "marked": true,
+    "content": "Premi il pulsante <span class='addDeviceTutorial'>"+locutions.toolbox.addDeviceBtn+"</span> nella barra laterale sinistra."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 3,
+    "title": "",
+    "marked": true,
+    "content": "Seleziona <span class='selectDeviceTutorial'>"+locutions.components.easyName.RGBLamp+"</span> per generare una lampada sullo schermo."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 4,
+    "title": "",
+    "marked": true,
+    "content": "Scansiona il codice <span class='qrCodeTutorial'>QR</span> con il tuo smartphone. Se non hai uno smartphone puoi premere su <span class='openInThisWindowTutorial'>"+locutions.iFrame.openHereButton+"</span> per aprire la lampada nel browser del dispositivo."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 5,
+    "title": "",
+    "content": "Premi <span class='confirmDeviceTutorial'>Confermare</span>."
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 6,
+    "title": "",
+    "marked": true,
+    "content": "Premi <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> nella barra laterale sinistra e sposta il componente successivo nello spazio di lavoro: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?accendere-lampada&"+lang+"&static' height='80' width='260'></iframe>"
+  },
+  {
+    "selector": "#tutorialButton",
+    "step": 8,
+    "title": "",
+    "marked": true,
+    "content": "Premi il pulsante <span class='playButtonTutorial'></span> per provare il prototipo."
+  }
+])
