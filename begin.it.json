@@ -37,7 +37,7 @@ PTJTutorial([
     "step": 6,
     "title": "",
     "marked": true,
-    "content": "Premi <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> nella barra laterale sinistra e sposta il componente successivo nello spazio di lavoro: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?accendere-lampada&"+lang+"&static' height='80' width='260'></iframe>"
+    "content": "Premi <span style='border-left-color: rgb(91, 165, 165);' class='sideButtonsTutorial'>"+locutions.components.easyName.RGBLamp+"1</span> nella barra laterale sinistra e sposta il componente successivo nello spazio di lavoro: <br><br> <iframe class='iFrameTutorial' src='https://app.protobject.com/generate?encender-lampara&"+lang+"&static' height='80' width='260'></iframe>"
   },
   {
     "selector": "#tutorialButton",
